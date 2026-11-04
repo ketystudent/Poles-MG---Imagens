@@ -440,3 +440,222 @@
 438 1.5 0.5 5.5 5
 439 B | Foto pequena e muito borrada
 440 R 1 0.5 9 6 | Foto original muito pequena e com pouca nitidez
+441 3.5 0.5 8 5
+442 2.5 0 6.5 4
+443 0.5 0.5 5 6
+444 0.5 0 4.5 5
+445 2.5 1.5 7 5.5
+446 1.5 1 6.5 5
+447 0 0 4 5
+448 0.5 1 5 5.5
+449 R 3.5 2.5 7.5 6 | Poste distante na foto, equipamentos pouco visíveis
+450 3.5 0 8.5 5.5
+451 R 6 0.5 10 6 | Foto original parece uma montagem de duas imagens; poste na borda direita
+452 4.5 0 9 5
+453 N | Poste não aparece na foto (só a rua e árvores)
+454 0.5 1 4.5 6
+455 2.5 0.5 6.5 5.5
+456 1 0.5 5 5
+457 6 0 10 6.5
+458 0 0 3.5 5
+459 1 0.5 5 5
+460 3 0.5 7.5 5
+461 4 0.5 8 5
+462 4 1 8.5 5.5
+463 2.5 0.5 6.5 4.5
+464 5 1 9.5 5.5
+465 2 0.5 6 5.5
+466 1.5 0.5 5.5 5.5
+467 R 4 0.5 8 5 | Há um segundo poste à esquerda; zoom feito no poste central
+468 3.5 0.5 8 5
+469 1.5 0.5 5.5 5
+470 2 0.5 6 6
+471 R 0 1 4 6.5 | Árvore encobre parte da fiação e dos equipamentos
+472 3 3 7 7.5
+473 R 1 0.5 5 5 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+474 R 5 0 9 6.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+475 R 5.5 0 9.5 5.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+476 2.5 2 6.5 6.5
+477 2.5 1.5 6.5 6.5
+478 3.5 1 8 5.5
+479 R 5.5 0 9.5 5.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+480 2 0.5 6.5 5
+481 1.5 0.5 6 5
+482 R 6 0 10 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+483 3.5 0.5 8 5
+484 0.5 0 4.5 5
+485 3.5 0.5 8 5.5
+486 0.5 0.5 4.5 5
+487 2 1 6 5.5
+488 1.5 1 5.5 5.5
+489 3 0 7.5 5
+490 2 0.5 6 5
+491 1 0.5 5.5 5
+492 2 1 6.5 6
+493 4 0.5 8 5
+494 1 0 5.5 6
+495 R 0.5 0.5 4.5 5.5 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+496 3 0.5 7.5 5
+497 R 1.5 0 5.5 5.5 | Árvore encobre parte da fiação e dos equipamentos
+498 2 1.5 6 6
+499 2.5 0 6.5 4.5
+500 R 1.5 0 5.5 5 | Poste com luminária encoberto por árvore; fiação pouco visível
+501 3 0.5 7.5 5
+502 2.5 0 6.5 5
+503 R 2.5 0 5 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+504 2 1 6 5.5
+505 1 1.5 5 6
+506 R 6 1 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+507 3.5 0.5 8 5
+508 R 5.5 0 9.5 5.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+509 2.5 0.5 7 5.5
+510 1.5 0.5 5.5 5.5
+511 1.5 0.5 5.5 5
+512 3.5 1 8 5.5
+513 R 2 0.5 6 5.5 | Contraluz forte do sol, fiação pouco visível
+514 1.5 0.5 5.5 5
+515 1 0.5 5 5
+516 0.5 0.5 4.5 5
+517 R 1 0 5 5 | Árvore encobre parte da fiação e dos equipamentos
+518 1.5 0.5 5.5 5.5
+519 0.5 0.5 4.5 5.5
+520 0 0.5 4.5 6
+521 0.5 0 4.5 4.5
+522 1.5 0.5 5.5 5.5
+523 3 0.5 7.5 5
+524 1.5 0 6 5.5
+525 1 1.5 5 5.5
+526 2 1.5 6 6.5
+527 1 0 5.5 5.5
+528 1.5 1 6 5.5
+529 3 0.5 8 5.5
+530 1.5 1 6 5
+531 2 1 7 5.5
+532 B | Foto muito borrada
+533 R 3.5 0 6.5 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+534 3.5 0.5 7.5 5.5
+535 0 0 5 5
+536 3 0.5 7.5 5
+537 R 1.5 0.5 5.5 5 | Há um segundo poste à direita; zoom feito no poste central
+538 R 6 0.5 10 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+539 4 0.5 8.5 6
+540 2 0.5 6.5 5
+541 3 0 7 4.5
+542 R 4 1 8 6 | Há um segundo poste à direita; zoom feito no poste central
+543 2 0.5 7 5.5
+544 4 0.5 9 6
+545 4 1 8 5.5
+546 1.5 0.5 5.5 5
+547 1 0 5.5 5.5
+548 2.5 0 7 5
+549 R 2 0 6 5 | Poste com pouca fiação; árvore ao lado
+550 2.5 1.5 6.5 5.5
+551 2.5 1 6.5 5.5
+552 1 0.5 5 5.5
+553 1 1.5 5 5.5
+554 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+555 3.5 1.5 7.5 5.5
+556 2.5 0 6.5 5
+557 2 1 6 5
+558 2.5 0.5 6.5 6
+559 2 0.5 6.5 5.5
+560 1.5 0.5 6 5
+561 R 5.5 0.5 9.5 5 | Há um segundo poste à esquerda; zoom feito no poste central
+562 3 0.5 8 5.5
+563 1.5 0.5 5.5 5.5
+564 3.5 0.5 8 5
+565 0.5 1 4.5 5.5
+566 R 2.5 0 5.5 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+567 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+568 1 0 5.5 5.5
+569 1.5 1 6 5.5
+570 0 0.5 4 5
+571 R 3 1.5 7 5.5 | Dois postes lado a lado; zoom pega os dois
+572 2 0 6 5
+573 2 0 6.5 4.5
+574 1 0 5.5 5.5
+575 1 1.5 5 5.5
+576 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+577 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+578 3.5 1 8.5 5.5
+579 2.5 0.5 6.5 5.5
+580 R 2 1.5 6 6.5 | Há um segundo poste à direita; zoom feito no poste central
+581 R 4 1 9 5.5 | Contraluz forte do sol na parte de cima
+582 4 1 9 5
+583 1.5 0 5.5 4
+584 2 0 6 4.5
+585 1.5 1 5.5 5
+586 3.5 0.5 8 5.5
+587 2.5 2 6.5 6
+588 1.5 0.5 6 5
+589 1.5 1 5.5 5.5
+590 2.5 0.5 6.5 5
+591 2 0.5 6.5 5
+592 B | Foto borrada e poste cortado na borda
+593 R 1.5 0 5.5 5 | Foto com pouca nitidez
+594 1.5 0.5 5.5 4.5
+595 0.5 0.5 4.5 5.5
+596 2 0.5 6 5
+597 R 3.5 0 6 6 | Foto horizontal com poste próximo da fachada
+598 2.5 0.5 7 5.5
+599 3 0.5 7.5 5.5
+600 R 0 0 6 9 | A foto original já é um close da fiação; o poste completo não aparece
+601 N | Poste quase não aparece (só fiação e a borda do poste)
+602 2.5 0.5 7 5
+603 3 0 7.5 5.5
+604 2.5 1 6.5 6
+605 3.5 1 7.5 5.5
+606 3 0.5 8 5.5
+607 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+608 2.5 1.5 6.5 6
+609 R 3 0 6 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+610 1 0.5 5 5.5
+611 1 0 5 4.5
+612 2.5 1 6.5 5.5
+613 3.5 0.5 8 5
+614 2.5 0 6.5 4
+615 1 1 5 5.5
+616 3 1 7 5
+617 2.5 0.5 6.5 5
+618 1.5 0.5 5.5 5
+619 3 0 7 4.5
+620 1 1.5 5 5.5
+621 1.5 0 5.5 5.5
+622 R 0 0.5 4 5.5 | Poste na borda esquerda da foto
+623 2.5 0.5 6.5 5.5
+624 2 0 6 4.5
+625 1 0 5 5
+626 3.5 0.5 8.5 5
+627 4.5 0.5 9 5.5
+628 3 0.5 7.5 5
+629 3 0.5 7.5 5.5
+630 N | Poste não aparece na foto (só fiação e a casa)
+631 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+632 2 0.5 6.5 5.5
+633 2.5 0.5 7.5 5
+634 R 2.5 0 5.5 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+635 2.5 0.5 7 5
+636 1 1 5 5.5
+637 0.5 0.5 5 5.5
+638 R 1 0 6 6.5 | A foto original já é um close da fiação; base do poste não aparece
+639 0.5 0 5 5
+640 R 0 0 4 5.5 | Poste na borda esquerda da foto
+641 R 0 0 4.5 7 | Poste na borda esquerda da foto
+642 R 0 0 4 5 | Poste na borda esquerda da foto
+643 R 0 1 4 5 | Poste na borda esquerda da foto
+644 2 0 6 5
+645 0 0.5 4 5.5
+646 3 0.5 7.5 5.5
+647 4 0.5 8.5 5
+648 1.5 0 6 5
+649 0.5 0 4.5 5.5
+650 0 0 4 4.5
+651 1 0 5.5 5.5
+652 1.5 0 6 5.5
+653 1.5 0 6 5
+654 2.5 1.5 6.5 5.5
+655 1 0.5 5 5.5
+656 R 1 0 5 5 | Há um segundo poste à direita; zoom feito no poste central
+657 R 3 0 7.5 5 | Há um segundo poste à esquerda; zoom feito no poste central
+658 1.5 0 6 5
+659 2.5 0 6.5 6
