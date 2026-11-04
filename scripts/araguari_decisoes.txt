@@ -1739,3 +1739,33 @@
 1737 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
 1738 R 2.5 0 7 5.5 | Foto com pouca nitidez
 1739 R 7 0 10 5 | Poste na borda direita da foto
+1740 R 1.5 0.5 9.5 6 | Foto original pequena; zoom com pouca nitidez
+1741 B | Foto pequena e borrada
+1742 R 2 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1743 B | Foto muito borrada
+1744 2 0.5 6.5 5.5
+1745 R 2 1 6.5 6 | Contraluz forte do sol; Foto com pouca nitidez
+1746 R 2.5 0.5 7 5.5 | Foto com pouca nitidez
+1747 B | Foto muito borrada
+1748 2.5 0 7 5.5
+1749 R 2.5 1 7 6 | Poste com pouca fiação; Foto com pouca nitidez
+1750 R 2 1 6.5 6 | Fachada ao fundo dificulta ver a fiação
+1751 2.5 0.5 7 5.5
+1752 2.5 0 7 5.5
+1753 2.5 0 7 5.5
+1754 R 3 0.5 7.5 5.5 | Foto com pouca nitidez
+1755 2 0 6.5 5.5
+1756 R 2 1 6.5 6 | Contraluz; Foto com pouca nitidez
+1757 B | Foto muito borrada
+1758 B | Foto muito borrada
+1759 R 2.5 0 7 5.5 | Foto com pouca nitidez
+1760 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1761 2 0 6.5 5.5
+1762 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+1763 R 2.5 0.5 7 6 | Palmeira à frente; há um segundo poste à esquerda
+1764 2.5 0 7 5.5
+1765 B | Foto muito borrada
+1766 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1767 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+1768 R 3 0.5 7.5 6 | Palmeiras encobrem parte do poste
+1769 R 3 0 7.5 5.5 | Placa de propaganda ao lado do poste
