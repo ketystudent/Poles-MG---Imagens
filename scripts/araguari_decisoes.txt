@@ -2779,3 +2779,126 @@
 2777 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (zoom na metade esquerda)
 2778 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
 2779 R 0 0 4.5 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (zoom na metade esquerda)
+2780 R 1.5 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2781 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2782 B | Foto pequena e borrada
+2783 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2784 R 5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2785 R 5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; árvore encobre o poste
+2786 R 0 0 7.5 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2787 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2788 R 3 0.5 7.5 5.5 | Foto original pequena; zoom com pouca nitidez
+2789 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2790 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2791 R 0 0 6 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2792 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2793 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2794 R 0 0 6 7.5 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2795 R 1.5 1 9 6.5 | Foto original pequena; zoom com pouca nitidez; vegetação encobre o poste
+2796 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2797 B | Foto pequena e borrada
+2798 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2799 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2800 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2801 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2802 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2803 R 5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2804 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2805 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2806 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2807 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2808 R 0 0 6 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2809 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2810 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2811 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2812 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2813 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2814 R 5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2815 R 0 0 6 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2816 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2817 R 1.5 1 9 6.5 | Foto original pequena; zoom com pouca nitidez
+2818 R 0 0 6 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2819 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2820 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2821 R 5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2822 R 0 0 6.5 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2823 R 4 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; árvore encobre parte do poste
+2824 R 4.5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2825 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2826 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2827 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2828 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2829 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2830 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2831 R 0 0 5 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2832 R 1.5 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2833 R 4 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2834 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2835 R 4 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; árvore encobre parte do poste
+2836 R 4.5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; palmeira à frente
+2837 R 0 0 6.5 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2838 R 0 0 6 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda); árvore à frente da base
+2839 R 0 0 5 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2840 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2841 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2842 R 5.5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2843 R 3.5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2844 R 4 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; palmeira encobre o poste
+2845 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2846 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2847 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2848 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2849 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2850 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2851 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2852 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2853 R 4 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2854 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2855 R 0 0 7 8 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2856 R 4.5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; árvore ao lado
+2857 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2858 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2859 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2860 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez; árvore ao lado
+2861 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2862 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2863 R 4.5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2864 R 5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2865 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez; árvores encobrem o poste
+2866 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2867 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2868 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2869 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2870 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2871 R 0 0 5.5 7.5 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2872 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2873 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2874 R 0 0 5.5 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2875 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2876 R 0 0 6.5 7.5 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2877 R 0 0 6 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2878 R 0 0 6 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2879 R 0 0 6.5 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2880 R 0 0 6.5 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2881 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2882 R 0 0 7 8 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2883 R 0 0 5.5 7.5 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2884 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2885 R 5 0 10 7 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+2886 R 0 0 5 7.5 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2887 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2888 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2889 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2890 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2891 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2892 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2893 R 0 0 5.5 7.5 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2894 R 0 0 6.5 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2895 R 0 0 4.5 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2896 R 0 0 5 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2897 R 0 0 7 8 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
+2898 R 2 0 8.5 6 | Foto original pequena; zoom com pouca nitidez
+2899 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+2900 R 0 0 6.5 8 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada (zoom na metade esquerda)
+2901 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2902 R 0 0 5 7.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (esquerda)
