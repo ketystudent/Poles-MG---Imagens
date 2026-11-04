@@ -2452,3 +2452,238 @@
 2450 B | Foto pequena e borrada
 2451 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
 2452 R 4 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+2453 B | Foto muito borrada
+2454 R 3 0.5 7.5 5.5 | Poste com pouca fiação
+2455 2.5 0 7 5.5
+2456 R 2.5 0 7 5.5 | Poste com pouca fiação
+2457 2.5 0 7 5.5
+2458 R 2.5 0 7 5.5 | Poste com pouca fiação
+2459 3 0 7.5 5.5
+2460 R 0 0 4 5 | Poste na borda esquerda; Poste com pouca fiação
+2461 R 2.5 0 7 5.5 | Placa de propaganda ao lado do poste
+2462 R 2.5 0 7 5.5 | Poste com pouca fiação
+2463 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+2464 R 3 0 8 6 | Foto original pequena; zoom com pouca nitidez
+2465 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2466 R 2 0.5 6.5 5.5 | Contraluz forte do sol; Poste com pouca fiação
+2467 R 1.5 0 6 5.5 | Poste com pouca fiação
+2468 R 2.5 0.5 7 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2469 R 3 0 7.5 5.5 | Poste com pouca fiação
+2470 R 1 0 5.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2471 R 1 0 5.5 5.5 | Árvore ao lado; Poste com pouca fiação
+2472 R 4.5 2.5 9 6.5 | Árvore encobre o poste; Poste com pouca fiação
+2473 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+2474 R 3 2 7.5 6.5 | Poste distante com pouca fiação
+2475 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2476 R 2.5 0.5 7 5.5 | Contraluz; Poste com pouca fiação
+2477 R 2.5 0 7 5.5 | Poste com pouca fiação
+2478 R 3 1.5 7.5 6.5 | Poste com pouca fiação
+2479 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+2480 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+2481 R 2.5 0 7 5.5 | Poste com pouca fiação
+2482 R 1 0.5 6 6 | Há um segundo poste ao lado; zoom feito no poste central
+2483 R 2.5 0 7 5.5 | Poste com pouca fiação
+2484 R 2.5 0 7 5.5 | Poste com pouca fiação
+2485 R 3 0.5 7.5 5.5 | Poste com pouca fiação
+2486 R 2.5 1 7 6 | Palmeiras encobrem o poste
+2487 R 2.5 0 7 5.5 | Árvore ao lado; Poste com pouca fiação
+2488 R 2.5 0.5 7 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2489 B | Foto muito borrada
+2490 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2491 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2492 R 2 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2493 R 2.5 0.5 7 6 | Há um segundo poste ao lado; zoom feito no poste central
+2494 R 3 0.5 7.5 6 | Poste com pouca fiação
+2495 R 3 0 7.5 5.5 | Poste com pouca fiação
+2496 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+2497 R 3 0 6.5 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+2498 R 2 0 6.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2499 R 3.5 1.5 8 6 | Poste com pouca fiação
+2500 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2501 R 3 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2502 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2503 R 2.5 0 7 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2504 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2505 R 3.5 1 8 6 | Há um segundo poste ao lado; zoom feito no poste central
+2506 R 1.5 1 6 6 | Poste com pouca fiação
+2507 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2508 R 2.5 0 7 5.5 | Contraluz; palmeira ao fundo
+2509 R 1 0 5.5 5.5 | Poste com pouca fiação
+2510 R 1 1 6 6 | Contraluz forte do sol; Há um segundo poste ao lado; zoom feito no poste central
+2511 2.5 0 7 5.5
+2512 R 3 0 7.5 5.5 | Poste com pouca fiação
+2513 R 2.5 0 7 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2514 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2515 R 2 0 6.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2516 R 3.5 1 8 6 | Há um segundo poste ao lado; zoom feito no poste central
+2517 B | Foto muito borrada
+2518 R 2.5 1 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+2519 R 2.5 1 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+2520 R 1.5 0 6 5.5 | Poste com pouca fiação
+2521 R 2 0 6.5 5.5 | Foto com pouca nitidez
+2522 R 2.5 1.5 7 6.5 | Poste com pouca fiação
+2523 R 4.5 1 9 6 | Poste com pouca fiação
+2524 R 3.5 0.5 8 6 | Poste com pouca fiação
+2525 R 2.5 0.5 7 6 | Há um segundo poste ao lado; zoom feito no poste central
+2526 R 2.5 0.5 7 6 | Poste com pouca fiação
+2527 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2528 R 3.5 1.5 8 6.5 | Poste com pouca fiação
+2529 R 2.5 0 7 5.5 | Poste com pouca fiação
+2530 R 3 0 7.5 5.5 | Poste com pouca fiação
+2531 2 0 6.5 5.5
+2532 R 3 1 7.5 6 | Poste com pouca fiação
+2533 R 3.5 1 8 6 | Poste com pouca fiação
+2534 R 3.5 1.5 8 6.5 | Há um segundo poste ao lado; zoom feito no poste central
+2535 R 2 0 6.5 5.5 | Céu nublado; Poste com pouca fiação
+2536 R 3 1 7.5 6 | Poste com pouca fiação
+2537 R 3 1.5 7.5 6 | Poste com pouca fiação
+2538 B | Foto muito borrada
+2539 R 3 0.5 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+2540 R 2 0 6.5 5.5 | Poste com pouca fiação
+2541 R 2 0 6.5 5.5 | Vegetação encobre a parte de baixo; Poste com pouca fiação
+2542 R 2.5 0 7 5.5 | Foto com pouca nitidez; Poste com pouca fiação
+2543 R 2 1 6.5 6 | Vegetação ao lado; Poste com pouca fiação
+2544 R 3.5 1 8 6 | Poste com pouca fiação
+2545 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2546 B | Foto pequena e borrada
+2547 R 2.5 0.5 7 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2548 R 2.5 0 7 5.5 | Foto com pouca nitidez; Poste com pouca fiação
+2549 R 2.5 1 7 6 | Poste com pouca fiação
+2550 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2551 R 2.5 0 7 5.5 | Poste com pouca fiação
+2552 B | Foto pequena e borrada
+2553 R 2.5 1 7 6 | Poste com pouca fiação
+2554 R 2.5 0 7.5 5.5 | Árvores ao lado; Poste com pouca fiação
+2555 2 0 6.5 5.5
+2556 R 2.5 1 7 6 | Poste com pouca fiação
+2557 R 2.5 0 7 5.5 | Poste com pouca fiação
+2558 R 3 0 7.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2559 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+2560 R 2.5 0 7 5.5 | Contraluz; Poste com pouca fiação
+2561 R 2.5 0 7 5.5 | Poste com pouca fiação
+2562 R 3 0 7.5 5.5 | Poste com pouca fiação
+2563 R 3 1 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+2564 R 3 1.5 7.5 6.5 | Poste com pouca fiação
+2565 R 1.5 0 6 5.5 | Poste com pouca fiação
+2566 R 2.5 1 7 6 | Há um segundo poste ao lado; zoom feito no poste central
+2567 B | Foto muito borrada
+2568 R 2.5 0 7 5.5 | Poste com pouca fiação
+2569 B | Foto muito borrada
+2570 B | Foto muito borrada
+2571 R 2.5 0 7 5.5 | Poste com pouca fiação
+2572 2.5 0 7 5.5
+2573 R 2.5 0 7 5.5 | Poste com pouca fiação
+2574 R 3.5 1.5 8 6 | Poste com pouca fiação
+2575 R 3.5 0 8 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2576 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2577 R 3 1.5 7.5 6.5 | Poste com pouca fiação
+2578 R 3 1.5 7.5 6.5 | Poste com pouca fiação
+2579 R 2 0 6.5 5.5 | Poste com pouca fiação
+2580 R 2 0 6.5 5.5 | Poste com pouca fiação
+2581 R 1.5 0 6 5.5 | Poste com pouca fiação
+2582 R 2 0.5 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central; árvore ao fundo
+2583 R 2.5 1 7 6 | Árvore ao lado; Poste com pouca fiação
+2584 R 3 0 7.5 5.5 | Poste com pouca fiação
+2585 R 3 0 7.5 5.5 | Poste com pouca fiação
+2586 R 2.5 0 7 5.5 | Árvore ao lado; Poste com pouca fiação
+2587 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2588 R 3 1.5 7.5 6.5 | Poste com pouca fiação
+2589 N | Poste não aparece na foto (encoberto por árvores)
+2590 R 3 0 7.5 5.5 | Poste com pouca fiação
+2591 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2592 R 3 0 7.5 5.5 | Árvores e palmeira encobrem a fiação
+2593 R 2.5 1 7 6 | Há um segundo poste ao lado; zoom feito no poste central
+2594 R 3 1 7.5 6 | Poste com pouca fiação
+2595 R 2.5 1 7 6 | Poste com pouca fiação
+2596 R 2.5 0 7 5.5 | Palmeiras ao fundo; Poste com pouca fiação
+2597 R 3 0 7.5 5.5 | Árvore ao lado; Poste com pouca fiação
+2598 R 2.5 0 7 5.5 | Poste com pouca fiação
+2599 R 3.5 1 8 6 | Poste com pouca fiação
+2600 R 1.5 0 6 5.5 | Arbusto encobre a parte de baixo; Poste com pouca fiação
+2601 R 2.5 0 7 5.5 | Poste com pouca fiação
+2602 B | Foto muito borrada
+2603 R 2 0 6.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2604 R 3 0 7.5 5.5 | Poste com pouca fiação
+2605 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2606 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2607 R 2.5 0 7 5.5 | Contraluz; Poste com pouca fiação
+2608 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2609 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2610 R 1.5 1.5 6 6.5 | Poste com pouca fiação
+2611 R 3 1 7.5 6 | Poste com pouca fiação
+2612 R 2 0 6.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2613 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2614 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez; Há um segundo poste ao lado; zoom feito no poste central
+2615 R 2 0 6.5 5.5 | Árvore ao lado; Poste com pouca fiação
+2616 R 2.5 0 7 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2617 R 3 0 7.5 5.5 | Poste com pouca fiação
+2618 R 2.5 0 7 5.5 | Poste com pouca fiação
+2619 R 3 0 7.5 5.5 | Poste com pouca fiação
+2620 B | Foto pequena e borrada
+2621 R 2.5 2.5 7 7 | Céu nublado; poste distante com pouca fiação
+2622 R 2.5 0 7 5.5 | Palmeira à frente; Há um segundo poste ao lado; zoom feito no poste central
+2623 R 2.5 0 7 5.5 | Poste com pouca fiação
+2624 R 3.5 1 9 6 | Foto original pequena; Poste com pouca fiação
+2625 R 2 2.5 6.5 7 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+2626 R 2.5 0 7 5.5 | Contraluz; Poste com pouca fiação
+2627 R 3 0 7.5 5.5 | Poste com pouca fiação
+2628 R 3 0 7.5 5.5 | Poste com pouca fiação
+2629 R 3 0 7.5 5.5 | Poste com pouca fiação
+2630 B | Foto muito borrada
+2631 R 2.5 1 7 6 | Poste com pouca fiação
+2632 R 2.5 0 7 5.5 | Árvore à frente; Há um segundo poste ao lado; zoom feito no poste central
+2633 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2634 B | Foto muito borrada
+2635 R 3 0 7.5 5.5 | Poste com pouca fiação
+2636 R 2 0 6.5 5.5 | Poste com pouca fiação
+2637 R 2.5 0 7 5.5 | Poste com pouca fiação
+2638 B | Foto muito borrada
+2639 R 1.5 1.5 9 7 | Foto original pequena; zoom com pouca nitidez
+2640 R 2.5 0 7 5.5 | Poste com pouca fiação
+2641 R 2.5 1.5 7 6 | Poste com pouca fiação
+2642 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2643 R 3 1.5 7.5 6 | Poste com pouca fiação
+2644 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2645 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2646 R 0 0 4.5 5.5 | Poste na borda esquerda; Poste com pouca fiação
+2647 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+2648 R 3 2.5 7.5 6.5 | Poste distante com pouca fiação
+2649 R 3.5 0 8 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2650 R 1.5 0.5 6 5.5 | Poste com pouca fiação
+2651 R 2.5 0 7 5.5 | Poste com pouca fiação
+2652 R 1.5 1 9 6 | Foto original pequena; zoom com pouca nitidez
+2653 R 2.5 1 7 6 | Poste com pouca fiação
+2654 R 3 1.5 7.5 6 | Poste com pouca fiação
+2655 B | Foto pequena e borrada
+2656 R 2 1 6.5 6 | Poste com pouca fiação
+2657 R 2.5 0 7 5.5 | Árvore ao lado; Poste com pouca fiação
+2658 R 2.5 0 7 5.5 | Poste com pouca fiação
+2659 R 2.5 0.5 7 6 | Contraluz; Poste com pouca fiação
+2660 R 3 0.5 7.5 5.5 | Contraluz; Poste com pouca fiação
+2661 R 3 0 7.5 5.5 | Poste com pouca fiação
+2662 R 2.5 0 7 5.5 | Árvore encobre o topo do poste
+2663 R 3 0 7.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2664 B | Foto pequena e borrada
+2665 R 1 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2666 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2667 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+2668 R 1.5 1 6 6 | Contraluz; Poste com pouca fiação
+2669 R 2 0 6.5 5.5 | Há um segundo poste ao lado; zoom feito no poste central
+2670 R 1 1 5.5 6 | Arbustos ao lado; Poste com pouca fiação
+2671 R 3 1.5 7.5 6 | Poste com pouca fiação
+2672 R 3 0 7.5 5.5 | Poste com pouca fiação
+2673 R 2.5 0 7 5.5 | Poste com pouca fiação
+2674 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+2675 R 1.5 0 6 5.5 | Poste com pouca fiação
+2676 R 3 1 7.5 6 | Poste com pouca fiação
+2677 R 2 0.5 6.5 5.5 | Poste com pouca fiação
+2678 R 2.5 0 7 5.5 | Poste com pouca fiação
+2679 R 1.5 0 6.5 5.5 | Contraluz; Poste com pouca fiação
+2680 R 3 0 7.5 5.5 | Poste com pouca fiação
+2681 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+2682 R 2.5 0 7 5.5 | Árvore ao lado; Poste com pouca fiação
+2683 R 3 0 7.5 5.5 | Árvore atrás encobre a fiação
+2684 R 3 1.5 7.5 6 | Poste com pouca fiação
+2685 R 0 0 4.5 5.5 | Poste na borda esquerda; Poste com pouca fiação
+2686 R 2 0.5 6.5 5.5 | Poste com pouca fiação
+2687 B | Foto pequena e borrada
