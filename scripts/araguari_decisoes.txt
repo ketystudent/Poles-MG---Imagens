@@ -3499,3 +3499,221 @@
 3497 R 1.5 0 6.5 6 | Poste com pouca fiação
 3498 R 2.5 0 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
 3499 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+3500 R 1.5 0 6.5 6 | Poste com pouca fiação
+3501 R 2 0 7 6 | A foto original já é um close da fiação; base do poste não aparece
+3502 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3503 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3504 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3505 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3506 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3507 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3508 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3509 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3510 R 1.5 0 6.5 6 | Poste com pouca fiação
+3511 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3512 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3513 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3514 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3515 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3516 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3517 N | Poste não aparece na foto (só fiação e árvore)
+3518 R 1.5 0 6.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3519 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3520 R 1 0 8 6 | Foto original pequena; zoom com pouca nitidez
+3521 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3522 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3523 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3524 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3525 R 2 0 8 6 | Foto original pequena; zoom com pouca nitidez
+3526 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3527 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3528 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3529 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3530 R 3 0 8 6 | Poste com pouca fiação
+3531 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3532 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3533 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3534 R 3 0 8 6.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+3535 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3536 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+3537 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3538 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3539 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3540 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3541 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3542 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3543 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3544 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3545 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3546 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3547 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3548 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3549 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+3550 R 1 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3551 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3552 R 1 0 8 6 | Foto original pequena; zoom com pouca nitidez
+3553 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3554 R 2 0 7 6 | Poste com pouca fiação
+3555 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3556 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+3557 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3558 R 2 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3559 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3560 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3561 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3562 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+3563 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3564 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3565 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3566 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3567 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3568 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3569 R 2.5 0 7.5 6 | Poste com pouca fiação
+3570 R 1 0 6 6 | Poste com pouca fiação
+3571 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3572 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3573 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3574 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3575 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3576 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3577 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+3578 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3579 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3580 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3581 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+3582 R 2 0 7 6 | Poste com pouca fiação
+3583 R 1.5 0 6.5 6 | Poste com pouca fiação
+3584 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3585 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3586 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3587 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3588 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3589 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3590 R 0 0 5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3591 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3592 R 2 0 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+3593 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3594 B | Foto pequena e borrada
+3595 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3596 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3597 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3598 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3599 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3600 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3601 R 2 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3602 R 2 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3603 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3604 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3605 R 1 0 8 6 | Foto original pequena; zoom com pouca nitidez
+3606 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3607 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3608 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3609 R 2 0 7 7.5 | A foto original já é um close da fiação; base do poste não aparece
+3610 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3611 R 2 0 7 6 | Poste com pouca fiação
+3612 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3613 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3614 R 5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3615 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3616 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3617 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3618 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3619 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3620 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3621 R 2 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece; árvore atrás do poste
+3622 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3623 R 1 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3624 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3625 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3626 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3627 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3628 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3629 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3630 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3631 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3632 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita); Há um segundo poste ao lado; zoom feito no poste central
+3633 R 2 0 7.5 6.5 | Há um segundo poste ao lado; zoom feito no poste central
+3634 R 2 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+3635 R 1 0 6 6 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+3636 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3637 R 1.5 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+3638 R 2 0 7 6 | Poste com pouca fiação
+3639 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3640 R 2.5 0 7.5 6 | Poste com pouca fiação
+3641 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+3642 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3643 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3644 R 2.5 0 7.5 6 | A foto original já é um close da fiação; base do poste não aparece
+3645 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3646 R 1 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3647 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3648 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3649 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3650 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3651 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3652 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3653 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3654 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3655 R 2 0 7 6 | Poste com pouca fiação
+3656 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3657 R 2 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3658 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3659 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3660 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3661 R 2.5 0 7.5 6 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+3662 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3663 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3664 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3665 R 1.5 0 6.5 6 | A foto original já é um close da fiação; base do poste não aparece
+3666 R 1.5 0 6.5 6 | A foto original já é um close da fiação; base do poste não aparece
+3667 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3668 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3669 B | Foto estreita e muito borrada
+3670 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3671 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3672 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3673 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3674 R 2 0 7 6 | Poste com pouca fiação
+3675 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3676 R 2.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3677 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3678 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3679 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3680 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3681 R 2 0 7 6 | Poste com pouca fiação
+3682 R 2.5 1 7.5 6.5 | Poste com pouca fiação
+3683 R 2 0 7 6 | Poste com pouca fiação
+3684 R 3.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3685 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3686 R 2 0 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+3687 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3688 R 3.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3689 R 2.5 0 7.5 6 | Poste com pouca fiação
+3690 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3691 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3692 R 2.5 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3693 R 2 0 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3694 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+3695 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3696 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3697 B | Foto estreita e muito borrada
+3698 R 1.5 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3699 R 2 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3700 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3701 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita); arbusto à frente
+3702 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3703 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3704 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
+3705 R 1 0 6 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3706 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3707 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3708 R 1.5 0 9 3 | Foto original muito estreita e comprida; zoom no topo
+3709 R 4.5 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3710 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3711 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
+3712 R 2 0 7 6 | Poste com pouca fiação
+3713 R 2.5 0 7.5 6.5 | Poste com pouca fiação
+3714 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3715 R 3 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3716 R 4 0 10 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado (direita)
+3717 R 3 0 9 6 | Foto original pequena; zoom com pouca nitidez
