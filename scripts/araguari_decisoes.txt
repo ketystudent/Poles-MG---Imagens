@@ -1419,3 +1419,323 @@
 1417 2.5 0 7 5.5
 1418 R 1 0 6 6 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
 1419 R 1.5 0 6.5 5.5 | Contraluz; há um segundo poste à direita
+1420 R 2.5 2 7 6 | Poste distante com pouca fiação
+1421 2.5 1 7 6
+1422 2.5 0.5 7 5.5
+1423 R 2.5 1 6.5 5.5 | Contraluz; poste com pouca fiação
+1424 R 2.5 0 6.5 5.5 | Contraluz forte do sol, fiação pouco visível
+1425 1.5 0 6 5
+1426 2.5 1 7 6
+1427 2.5 0.5 7 5.5
+1428 2.5 0 7 5.5
+1429 3 0 7.5 5.5
+1430 2.5 1 7 5.5
+1431 3.5 0 8 5.5
+1432 2.5 0.5 7 5.5
+1433 2.5 1.5 7 6
+1434 3 0.5 7.5 5.5
+1435 2 0.5 6.5 5.5
+1436 2 0 6.5 5
+1437 2.5 1 7 5.5
+1438 R 0 0 4.5 5 | Poste na borda esquerda da foto
+1439 R 2.5 0 6.5 5 | Há um segundo poste à direita; zoom feito no poste central
+1440 2 1.5 6.5 6
+1441 2 0 6.5 5
+1442 2 0 6.5 5
+1443 2.5 1 7 5.5
+1444 R 3 1.5 7.5 6 | Poste com pouca fiação; contraluz
+1445 R 2 1.5 6.5 6 | Contraluz forte do sol, fiação pouco visível
+1446 2 0 6.5 5.5
+1447 2.5 0 7 5
+1448 R 1 0 6 5.5 | Contraluz forte do sol, fiação pouco visível
+1449 B | Foto muito borrada
+1450 B | Foto muito borrada
+1451 2.5 0 7 5.5
+1452 2.5 0 7 5
+1453 R 2.5 0 7 5.5 | Contraluz forte do sol, fiação pouco visível
+1454 3 0.5 7.5 5.5
+1455 1.5 0.5 6 5.5
+1456 2.5 0 7 5
+1457 R 2.5 0 7 5.5 | Imagem desbotada/contraluz; fiação pouco visível
+1458 R 2.5 1 7 6 | Poste com pouca fiação, em frente à fachada
+1459 3.5 0.5 8 5.5
+1460 3 0 7.5 5.5
+1461 R 2.5 0 7 5.5 | Contraluz forte do sol, fiação pouco visível
+1462 2.5 0.5 7 5.5
+1463 R 3.5 0 6.5 6 | Foto horizontal; poste no centro com fiação no alto
+1464 2.5 0.5 7 5.5
+1465 2 0 6.5 5.5
+1466 2.5 0 7 5.5
+1467 2.5 0 7 5.5
+1468 R 2.5 1.5 7 6 | Poste com pouca fiação
+1469 3 0 7.5 5.5
+1470 2.5 0.5 7 5.5
+1471 2.5 0 7 5.5
+1472 3 0 7.5 5.5
+1473 B | Foto muito borrada
+1474 B | Foto muito borrada
+1475 R 2 1 6.5 6 | Contraluz forte do sol, fiação pouco visível
+1476 R 2 0 6.5 5.5 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1477 3 0 7.5 5.5
+1478 R 2.5 1 7 6 | Há um segundo poste à esquerda; zoom feito no poste central
+1479 2.5 0 7 5.5
+1480 R 3 0 6 6 | Foto horizontal; poste encostado na fachada
+1481 2.5 0 7 5.5
+1482 R 0 0 5 6 | Poste na borda esquerda da foto
+1483 2.5 0 7 5.5
+1484 3 0.5 7.5 5.5
+1485 R 2 0 6.5 5.5 | Há um segundo poste à esquerda; zoom feito no poste central
+1486 2.5 0 7 5.5
+1487 2.5 0 7 5.5
+1488 R 1.5 0 6 5.5 | Há um segundo poste à esquerda; zoom feito no poste central
+1489 3 0 7.5 5.5
+1490 1 0 5.5 5.5
+1491 2.5 1 7 6
+1492 2.5 0 7 5.5
+1493 2.5 0.5 7 5.5
+1494 2.5 1.5 7 6
+1495 2 1 6.5 6
+1496 3 0 7.5 5.5
+1497 2.5 0 7 5.5
+1498 2.5 0.5 7 5.5
+1499 3 0 7.5 5.5
+1500 R 2 0 6.5 5.5 | Poste encostado na fachada; fiação pouco visível
+1501 2.5 0 7 5.5
+1502 3 0 7.5 5
+1503 2.5 0.5 7 5.5
+1504 3 0 7.5 5.5
+1505 3 0.5 7.5 6
+1506 2.5 0 7 5.5
+1507 3 0.5 7.5 5.5
+1508 2 0.5 6.5 5.5
+1509 2.5 0 7 5.5
+1510 2 0 6.5 5.5
+1511 2.5 0 7 5.5
+1512 R 3 1 7.5 6 | Há um segundo poste à esquerda; zoom feito no poste central
+1513 R 3 0 7.5 6 | Poste encostado na fachada; fiação pouco visível
+1514 1 0 5.5 5.5
+1515 3 0.5 7.5 5.5
+1516 R 2 0 6.5 5.5 | Imagem desbotada/contraluz; fiação pouco visível
+1517 2.5 0 7 5.5
+1518 2.5 0 7 5.5
+1519 R 2.5 0 7 6 | Poste encostado na fachada; fiação pouco visível
+1520 3 0 7.5 5.5
+1521 R 2.5 0 7 6 | Poste encostado no prédio; fiação pouco visível
+1522 R 3.5 0 8 6 | Contraluz forte do sol, fiação pouco visível
+1523 R 3 2.5 7.5 6.5 | Poste distante com pouca fiação
+1524 3 0 7.5 5.5
+1525 R 1.5 1 6 6 | Poste com pouca fiação
+1526 2.5 0 7 5.5
+1527 3 0.5 7.5 5.5
+1528 R 2.5 1.5 7 6.5 | Contraluz; poste com pouca fiação
+1529 R 3 0 7.5 5.5 | Árvore encobre a parte de baixo do poste
+1530 2.5 1 7 6
+1531 3 0 7.5 5.5
+1532 2.5 0 7 5.5
+1533 R 3.5 0 6.5 6 | Foto horizontal; poste encostado na fachada
+1534 3 1.5 7.5 6
+1535 R 2 0.5 6.5 6 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1536 2.5 0 7 5.5
+1537 R 2.5 0.5 7 6 | Poste com pouca fiação
+1538 2.5 0 7 5.5
+1539 R 2.5 1.5 7 6 | Poste com pouca fiação
+1540 2 0 6.5 5.5
+1541 R 2.5 0 7 6 | Poste encostado na fachada; arbusto ao lado
+1542 3 0 7.5 5
+1543 R 2.5 1 7 6 | Contraluz forte do sol, fiação pouco visível
+1544 2.5 0 7 5.5
+1545 2 0 6.5 5.5
+1546 R 2.5 0 7 6 | Contraluz forte do sol, fiação pouco visível
+1547 2.5 0.5 7 5.5
+1548 R 3.5 0 8 5.5 | Poste com pouca fiação
+1549 R 3 0.5 7.5 6 | Árvore encobre a parte de baixo do poste
+1550 2.5 1 7 5.5
+1551 2 0 6.5 5.5
+1552 R 2.5 0.5 7 5.5 | Contraluz forte do sol, fiação pouco visível
+1553 R 2.5 0 7 6 | Poste encostado na fachada; fiação pouco visível
+1554 3 0 7.5 5.5
+1555 R 2 1.5 6.5 6 | Contraluz; poste com pouca fiação
+1556 2.5 0 7 5.5
+1557 R 1.5 0 6.5 5.5 | Poste em frente ao prédio; fiação pouco visível
+1558 B | Foto muito borrada
+1559 3 0.5 7.5 5.5
+1560 R 2.5 0 7 5.5 | Árvore e fachada clara dificultam ver a fiação
+1561 R 1.5 0 6 5.5 | Contraluz forte do sol, fiação pouco visível
+1562 3 0 7.5 5.5
+1563 3 0 7.5 5
+1564 3 0 7.5 5
+1565 2 0.5 6.5 5.5
+1566 2.5 0 7 5.5
+1567 3.5 0.5 8 5.5
+1568 2.5 0.5 7 5.5
+1569 2.5 1 7 6
+1570 R 1 0 5.5 5 | Foto com pouca nitidez
+1571 2.5 0.5 7 5.5
+1572 2.5 0 7 5.5
+1573 2 0 6.5 5.5
+1574 R 2.5 1 7 6 | Contraluz forte do sol, fiação pouco visível
+1575 R 2 1.5 6.5 6 | Contraluz forte do sol, fiação pouco visível
+1576 R 2 1.5 6.5 6 | Poste com pouca fiação
+1577 2.5 0 7 5
+1578 R 2.5 0.5 7 6 | Poste com pouca fiação
+1579 3 1 7.5 6
+1580 2.5 0 7 5.5
+1581 2.5 1 7 5.5
+1582 R 2.5 1 7 6 | Poste com pouca fiação
+1583 3.5 0 8 5
+1584 3 0 7.5 5
+1585 2.5 0.5 7 5.5
+1586 R 1.5 1 6 6 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1587 2.5 0.5 7 5.5
+1588 3.5 0 8 5.5
+1589 2.5 0 7 5.5
+1590 R 2.5 1.5 7 6 | Torre metálica ao fundo dificulta ver a fiação
+1591 3 1 7.5 6
+1592 2.5 0.5 7 5.5
+1593 3 0 7.5 5.5
+1594 R 3.5 0.5 8 5.5 | Poste com pouca fiação
+1595 R 1.5 0.5 6 5.5 | Imagem desbotada/contraluz; fiação pouco visível
+1596 2.5 1 7 6
+1597 R 2.5 1.5 7 6 | Poste com pouca fiação
+1598 R 3.5 0 8 5.5 | Torre metálica ao fundo dificulta ver a fiação
+1599 3 0 7.5 5.5
+1600 R 2 0 6.5 5.5 | Contraluz forte do sol, fiação pouco visível
+1601 R 2 0 7 5.5 | Contraluz; torre metálica ao fundo
+1602 R 2.5 0 7 5.5 | Poste encostado na fachada; fiação pouco visível
+1603 2.5 0 7 5.5
+1604 2.5 0 7 5.5
+1605 R 2 0 6.5 5.5 | Foto com pouca nitidez; poste encostado na fachada
+1606 B | Foto muito borrada
+1607 R 2.5 0 7 6 | Contraluz forte e foto com pouca nitidez
+1608 B | Foto muito borrada
+1609 B | Foto muito borrada
+1610 B | Foto muito borrada
+1611 R 3 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1612 R 4.5 0.5 9 5.5 | Há dois postes; zoom no poste da direita (com mais fiação)
+1613 2.5 0 7 5.5
+1614 R 2 0 6.5 5.5 | Poste com pouca fiação
+1615 2.5 0 7 5.5
+1616 2.5 0 7 5.5
+1617 3 0.5 7.5 5.5
+1618 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1619 2.5 0.5 7 5.5
+1620 R 2 0.5 6.5 5.5 | Poste com pouca fiação
+1621 R 3.5 0 9.5 6 | Foto original pequena; há outros postes ao fundo
+1622 R 3 0.5 7.5 5.5 | Foto com pouca nitidez
+1623 2.5 0 7 5.5
+1624 3 0.5 7.5 5.5
+1625 2.5 0.5 7 5.5
+1626 R 1.5 0 6.5 6 | Palmeira e contraluz encobrem a fiação; há um segundo poste à direita
+1627 2.5 0.5 7 5.5
+1628 3 0.5 7.5 6
+1629 3 0 7.5 5.5
+1630 2 0 6.5 5.5
+1631 3 0 7.5 5.5
+1632 2.5 0 7 5.5
+1633 3 0 7.5 5.5
+1634 2.5 0 7 5.5
+1635 R 2.5 0.5 7 5.5 | Foto com pouca nitidez
+1636 B | Foto muito borrada
+1637 B | Foto muito borrada
+1638 B | Foto muito borrada
+1639 R 3 0 7.5 6 | Contraluz forte do sol, fiação pouco visível
+1640 2 0.5 6.5 5.5
+1641 3 0.5 7.5 5.5
+1642 3 0 7.5 5.5
+1643 R 1.5 0.5 9 6 | Foto original muito pequena e com pouca nitidez
+1644 B | Foto muito borrada
+1645 R 1.5 0 6 5.5 | Palmeira encobre o poste; foto com pouca nitidez
+1646 2.5 0.5 7 5.5
+1647 R 3 0 7.5 6 | Palmeira encobre parte do poste e da fiação
+1648 2.5 0 7 5.5
+1649 2.5 0 7 5.5
+1650 2 0 6 5.5
+1651 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1652 R 2.5 0.5 7 5.5 | Foto com pouca nitidez
+1653 B | Foto muito borrada
+1654 B | Foto pequena e muito borrada
+1655 B | Foto muito borrada
+1656 2.5 0 7 5.5
+1657 2.5 0.5 7 5.5
+1658 3 0 7.5 5.5
+1659 3 0 7.5 5.5
+1660 R 3 0 7.5 5.5 | Foto com pouca nitidez
+1661 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1662 R 3 0.5 9.5 6 | Foto original pequena; zoom com pouca nitidez
+1663 B | Foto muito borrada
+1664 B | Foto borrada
+1665 R 2 0.5 6.5 5.5 | Foto com pouca nitidez
+1666 R 2.5 1 7 6 | Árvore encobre o poste; Foto com pouca nitidez
+1667 R 3 1.5 7.5 6 | Contraluz; poste com pouca fiação
+1668 2.5 0.5 7 5.5
+1669 R 3 1.5 7.5 6 | Contraluz forte do sol, fiação pouco visível
+1670 R 4 1 9.5 6.5 | Foto original pequena; zoom com pouca nitidez
+1671 R 2.5 1 7 6 | Palmeiras ao fundo dificultam ver a fiação
+1672 2.5 0 7 5.5
+1673 B | Foto muito borrada
+1674 B | Foto muito borrada
+1675 R 1.5 0 6 5.5 | Árvore encobre o poste; Foto com pouca nitidez
+1676 2.5 0 7 5.5
+1677 R 2 1.5 6.5 6 | Contraluz; placa à frente do poste
+1678 B | Foto muito borrada
+1679 B | Foto muito borrada
+1680 R 2 0 6.5 5 | Foto com pouca nitidez
+1681 B | Foto borrada
+1682 R 2.5 0.5 7 5.5 | Contraluz; poste com pouca fiação
+1683 R 2.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1684 R 2.5 0 7 5 | Foto com pouca nitidez
+1685 R 2 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1686 B | Foto borrada
+1687 2.5 0.5 7 5.5
+1688 B | Foto pequena e borrada
+1689 R 2.5 0 7 5.5 | Poste com pouca fiação
+1690 2 0.5 6.5 5.5
+1691 2.5 0.5 7 5.5
+1692 R 2.5 0 7 5.5 | Há um segundo poste à direita; zoom feito no poste central
+1693 R 3 0 7.5 5.5 | Contraluz; poste com pouca fiação
+1694 2.5 0 7 5.5
+1695 R 2 0 6.5 5.5 | Contraluz; poste com pouca fiação
+1696 R 2.5 1 7 6 | Foto com pouca nitidez
+1697 R 3 1 7.5 6 | Contraluz forte do sol, fiação pouco visível
+1698 B | Foto muito borrada
+1699 R 3 0.5 7.5 5.5 | Foto com pouca nitidez
+1700 R 1 0 5.5 5.5 | Poste encostado na fachada; Foto com pouca nitidez
+1701 R 2 0.5 6.5 5.5 | Foto com pouca nitidez
+1702 B | Foto muito borrada
+1703 R 3 0 7.5 5.5 | Há um segundo poste à direita; zoom feito no poste central
+1704 B | Foto muito borrada
+1705 R 1.5 0 6 5.5 | Fachada branca ao fundo; Foto com pouca nitidez
+1706 B | Foto muito borrada
+1707 3 0 7.5 5.5
+1708 R 2.5 0.5 7 5.5 | Poste com pouca fiação
+1709 3 0 7.5 5.5
+1710 2.5 0 7 5.5
+1711 2.5 0 7 5.5
+1712 R 2.5 0 7 5.5 | Foto com pouca nitidez
+1713 B | Foto muito borrada
+1714 R 2.5 0 7 5.5 | Caixa d'água ao fundo dificulta ver a fiação
+1715 R 1.5 0.5 6 5.5 | Contraluz forte do sol, fiação pouco visível
+1716 B | Foto muito borrada
+1717 B | Foto borrada
+1718 R 2.5 0 7 5.5 | Foto com pouca nitidez
+1719 B | Foto borrada
+1720 R 2.5 0 7 5.5 | Há um segundo poste à esquerda; zoom feito no poste central
+1721 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1722 2.5 0 7 5.5
+1723 2.5 0 7 5
+1724 R 3 0.5 9.5 6 | Foto original pequena; zoom com pouca nitidez
+1725 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1726 B | Foto pequena e borrada
+1727 R 2.5 0 7 5.5 | Árvore ao lado encobre parte da fiação
+1728 3 0 7.5 5.5
+1729 3 0 7.5 5.5
+1730 2 0.5 6.5 5.5
+1731 R 2.5 0 7 5.5 | Árvores encobrem parte da fiação
+1732 2.5 0.5 7 5.5
+1733 2.5 0 7 5.5
+1734 R 3 0 7.5 5.5 | Árvore encobre parte do poste
+1735 R 2 0 6.5 5.5 | Árvore e contraluz; Foto com pouca nitidez
+1736 B | Foto muito borrada
+1737 R 1.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1738 R 2.5 0 7 5.5 | Foto com pouca nitidez
+1739 R 7 0 10 5 | Poste na borda direita da foto
