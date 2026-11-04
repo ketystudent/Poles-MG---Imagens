@@ -1139,3 +1139,283 @@
 1137 2.5 0 7 5.5
 1138 2.5 0 6.5 5
 1139 R 2.5 0 7 5 | Há um segundo poste à direita; zoom feito no poste central
+1140 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1141 R 2 1 6.5 6.5 | Poste com pouca fiação; árvore à frente
+1142 N | Poste não aparece na foto (só a rua e árvore)
+1143 R 0.5 0 6 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1144 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1145 R 2.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1146 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1147 R 2.5 0 7 5 | Árvore encobre parte da fiação e dos equipamentos
+1148 R 2.5 0.5 8.5 6 | Foto original pequena; zoom com pouca nitidez
+1149 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1150 1.5 0 6 5
+1151 R 2 0 7 5 | Foto com pouca nitidez
+1152 2.5 0.5 7 5.5
+1153 R 2 0.5 8 5.5 | Foto original pequena; zoom com pouca nitidez
+1154 2.5 0 7 5
+1155 2.5 0 7 5.5
+1156 2.5 1 7 5.5
+1157 R 2.5 1 7 5.5 | Árvore encobre parte da fiação e dos equipamentos
+1158 N | Poste não aparece na foto (só a rua e árvores)
+1159 R 3 0 9.5 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1160 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1161 1 0 5.5 5
+1162 2.5 0 7 5
+1163 2.5 0 6.5 5.5
+1164 R 3.5 1.5 7.5 6 | Contraluz forte do sol, fiação pouco visível
+1165 1.5 1 6 5.5
+1166 2.5 0.5 7 5.5
+1167 2.5 0.5 7 5.5
+1168 R 3.5 0 6.5 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1169 R 2 0.5 6.5 5 | Contraluz forte do sol, fiação pouco visível
+1170 R 3 0.5 7.5 5 | Há um segundo poste à direita; zoom feito no poste central
+1171 R 2 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1172 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1173 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1174 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1175 2.5 1 7 5.5
+1176 2.5 0.5 7 5.5
+1177 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1178 R 2.5 0.5 7 5.5 | Contraluz forte do sol, fiação pouco visível
+1179 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado; contraluz
+1180 R 3 0 7.5 5 | Árvore encobre parte da fiação e dos equipamentos
+1181 2.5 0 7 5
+1182 2.5 0 7 5
+1183 3 0 7.5 5
+1184 2.5 0 7 5
+1185 R 3 0 7.5 5.5 | Contraluz forte do sol, fiação pouco visível
+1186 2.5 0 7 5
+1187 3 0 7.5 5.5
+1188 R 4 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1189 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1190 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1191 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1192 R 3 0 7.5 5 | Contraluz forte do sol; há um segundo poste à direita
+1193 R 2.5 1 7 6 | Contraluz forte do sol, fiação pouco visível
+1194 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1195 R 1 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1196 R 1 0.5 8 6 | Foto original pequena; zoom com pouca nitidez
+1197 R 1 1.5 9 6.5 | Foto original pequena; zoom com pouca nitidez; palmeira encobre parte do poste
+1198 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1199 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1200 2 0 6.5 5
+1201 2.5 0 7 5
+1202 R 2.5 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1203 R 3.5 1 8.5 6 | Há um segundo poste à esquerda; zoom feito no poste central
+1204 3.5 0.5 8 5.5
+1205 R 2 1 6.5 6 | Contraluz forte do sol, fiação pouco visível
+1206 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1207 R 1.5 1 6.5 6 | Contraluz forte do sol, fiação pouco visível
+1208 2.5 0.5 7 5.5
+1209 2.5 0 7 5
+1210 R 3 2 8 7 | Árvore encobre a parte de baixo do poste
+1211 R 2.5 0 7 5.5 | Contraluz forte do sol, fiação pouco visível
+1212 3 0 7.5 5.5
+1213 R 5 0 9.5 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado; arbusto à frente do poste
+1214 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1215 2 1 6.5 5.5
+1216 2.5 0.5 7 5.5
+1217 3 1 7.5 6
+1218 2 0 6.5 5.5
+1219 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado; árvore ao fundo
+1220 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1221 2 0 6.5 5
+1222 R 1 0.5 9 6.5 | Foto original pequena; zoom com pouca nitidez
+1223 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1224 R 2.5 1 7.5 6 | Poste com pouca fiação
+1225 R 1 1 5.5 6 | Árvore encobre a parte de baixo do poste
+1226 2 0 6.5 5
+1227 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1228 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1229 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1230 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1231 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1232 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1233 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1234 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1235 2 0.5 6.5 5.5
+1236 B | Foto muito borrada
+1237 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1238 R 1.5 0 6 5 | Contraluz forte do sol, fiação pouco visível
+1239 2.5 0.5 7 5
+1240 R 0 1 5 6 | Poste na borda esquerda; contraluz
+1241 N | Poste não aparece na foto (só a rua e árvore)
+1242 2.5 1.5 6.5 6
+1243 2.5 0 7 5.5
+1244 2.5 1 7 5.5
+1245 2.5 1 6.5 5.5
+1246 2 0 6.5 5
+1247 R 2.5 1 6.5 6 | Poste com pouca fiação
+1248 2 0 6.5 5
+1249 3.5 0.5 8 5.5
+1250 2 1.5 6 6
+1251 2 0 6.5 5
+1252 3 0 7 5
+1253 R 1.5 0.5 6 5.5 | Contraluz forte do sol, fiação pouco visível
+1254 2.5 0 7 5.5
+1255 R 1.5 0 6 5 | Poste com pouca fiação
+1256 2.5 0 6.5 5.5
+1257 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1258 R 3 0 7.5 5 | Poste com pouca fiação
+1259 2.5 0.5 7 5.5
+1260 2 1 6.5 6
+1261 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1262 R 4 0 9.5 6.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1263 R 0 0 5 6.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1264 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1265 R 4 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1266 2.5 0.5 7 5.5
+1267 3 0.5 7.5 5.5
+1268 2.5 0.5 7 5.5
+1269 R 4 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1270 B | Foto muito borrada
+1271 2.5 1 7 5.5
+1272 R 2.5 0.5 7 5.5 | Poste encostado na fachada; fiação pouco visível
+1273 R 2.5 0 7 5.5 | Palmeira ao lado encobre parte da fiação
+1274 R 1.5 1.5 6 6 | Poste com pouca fiação
+1275 3 0 7.5 5
+1276 3 1 7.5 6
+1277 R 0 0 6 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1278 R 2.5 1 7 6 | Contraluz forte do sol, fiação pouco visível
+1279 R 2.5 1 7 6 | Há um segundo poste à direita; zoom feito no poste central
+1280 1.5 0 6 5
+1281 2.5 0.5 7 5.5
+1282 3 0 7.5 5.5
+1283 2.5 1 7 5.5
+1284 3 1 7.5 5.5
+1285 2 0.5 6.5 5.5
+1286 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1287 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1288 R 2 0 6.5 6 | Há um segundo poste à esquerda; zoom feito no poste central
+1289 R 3 1.5 7.5 6 | Poste com pouca fiação; contraluz
+1290 R 1.5 0.5 6 5.5 | Contraluz forte do sol, fiação pouco visível
+1291 R 0 0 5 6.5 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1292 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1293 R 0 0 6 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1294 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1295 R 2 0.5 6.5 5.5 | Contraluz forte do sol, fiação pouco visível
+1296 3 0 7.5 5.5
+1297 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1298 3 0.5 7.5 5.5
+1299 R 3 2 7.5 6.5 | Contraluz forte do sol, fiação pouco visível
+1300 R 2 0 6.5 5.5 | Palmeira ao lado; poste encostado na fachada
+1301 B | Foto muito borrada
+1302 R 3 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1303 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1304 2.5 1 7 6
+1305 R 2 0.5 6.5 6 | Árvore e contraluz dificultam ver a fiação
+1306 2.5 0 7 5.5
+1307 2.5 1 7 6
+1308 3 0.5 7.5 5.5
+1309 2.5 0 7 5.5
+1310 2.5 0.5 7 5.5
+1311 2.5 1 7 5.5
+1312 3 0 7.5 5.5
+1313 R 2.5 1.5 7 6 | Poste com pouca fiação
+1314 2.5 0 6.5 5.5
+1315 R 1 1 6 6 | Há um segundo poste à esquerda; zoom no poste com luminária
+1316 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1317 R 1 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1318 2.5 0.5 7 6
+1319 R 2.5 0 7 6 | Árvore encobre parte da fiação; há um segundo poste à direita
+1320 2.5 0 7 5
+1321 R 4 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1322 2.5 0.5 7 5.5
+1323 R 4 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1324 R 3.5 0 9.5 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1325 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1326 R 1 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1327 2.5 0 7 5.5
+1328 N | Poste não aparece na foto (só a fachada e a luminária)
+1329 B | Foto muito borrada
+1330 2 0 6.5 5.5
+1331 2.5 0 7 5.5
+1332 2.5 1 7 5.5
+1333 3 0 7.5 5.5
+1334 2.5 1 7 5.5
+1335 2 0.5 6.5 5.5
+1336 R 2 1 6.5 6 | Poste com pouca fiação
+1337 2.5 1 7 6
+1338 R 2.5 2 7 6.5 | Há um segundo poste à esquerda; zoom no poste central
+1339 R 2.5 1 7 6 | Poste com pouca fiação
+1340 2 0 6.5 5.5
+1341 R 2.5 1.5 7 6 | Poste distante, atrás da fachada; equipamentos pouco visíveis
+1342 R 3 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1343 2.5 0.5 7 5.5
+1344 R 3.5 0 9.5 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1345 R 1.5 0.5 6 5.5 | Poste com pouca fiação
+1346 R 2 1 6.5 6 | Árvore e contraluz dificultam ver a fiação
+1347 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1348 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1349 R 3.5 0 9.5 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado; árvores ao fundo
+1350 2 0 6.5 5.5
+1351 R 3 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1352 R 2.5 0 7 5.5 | Contraluz forte do sol, fiação quase não aparece
+1353 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1354 2.5 1.5 6.5 6
+1355 2.5 1 6.5 6
+1356 R 1 0.5 6 5.5 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1357 2.5 1 6.5 5.5
+1358 2.5 0 7 5.5
+1359 2.5 0 6.5 5
+1360 R 2 1.5 6.5 6 | Poste com pouca fiação
+1361 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1362 2 0 6.5 5.5
+1363 R 2 0 6.5 5 | Coqueiro encobre parte da fiação
+1364 R 2.5 1.5 7 6 | Poste com pouca fiação
+1365 R 1.5 0.5 6 5.5 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1366 R 4 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado; árvore encobre parte do poste
+1367 2.5 0.5 7 5.5
+1368 2.5 0 7 5.5
+1369 2.5 0 7 5.5
+1370 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1371 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1372 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1373 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1374 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1375 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1376 R 0 0 5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1377 R 2 0 7 5.5 | Fachada de vidro ao fundo dificulta ver a fiação
+1378 R 3 0.5 9 6 | Foto original pequena; zoom com pouca nitidez
+1379 R 0 0 6 7 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1380 R 6 0.5 9.5 6 | Foto original pequena com dois postes; zoom no poste da direita (com equipamentos)
+1381 R 2.5 1.5 6.5 6 | Poste com pouca fiação; palmeiras ao fundo
+1382 R 3 1 7.5 6 | Poste com pouca fiação; há um segundo poste à esquerda
+1383 2 0 6.5 5.5
+1384 R 4.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1385 3 0.5 7.5 6
+1386 R 1.5 1.5 6 6 | Poste com pouca fiação
+1387 R 2.5 0 6.5 5.5 | Há um segundo poste à direita; zoom feito no poste central
+1388 R 2 0 6.5 5.5 | Poste com pouca fiação
+1389 2.5 0 6.5 5.5
+1390 2 0.5 6 5.5
+1391 3 0 7.5 5.5
+1392 2.5 1 6.5 5.5
+1393 2 0 6.5 5.5
+1394 N | Poste não aparece em destaque (foto da rua com postes distantes)
+1395 2.5 1 6.5 5.5
+1396 2.5 0 7 5.5
+1397 B | Foto muito borrada
+1398 2.5 0.5 7 5.5
+1399 3 1 7.5 6
+1400 2 0.5 6 5.5
+1401 2.5 0 7 5.5
+1402 4 1 8 5.5
+1403 1.5 0 5.5 5.5
+1404 R 3 0 7.5 5.5 | Poste encostado na fachada; fiação pouco visível
+1405 2.5 0 6.5 5.5
+1406 2.5 0.5 7 5.5
+1407 R 3.5 0.5 8 5.5 | Árvore encobre parte do poste
+1408 B | Foto muito borrada
+1409 R 2.5 1 7 6 | Poste encostado na fachada; fiação pouco visível
+1410 2 0 6.5 5.5
+1411 3 0 7.5 5
+1412 2.5 1 7 5.5
+1413 R 2.5 1 7 6 | Fachada azul ao fundo dificulta ver a fiação
+1414 R 2.5 1 7 6 | Há um segundo poste à direita; zoom feito no poste central
+1415 2.5 0 7 5.5
+1416 2.5 1 6.5 5.5
+1417 2.5 0 7 5.5
+1418 R 1 0 6 6 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1419 R 1.5 0 6.5 5.5 | Contraluz; há um segundo poste à direita
