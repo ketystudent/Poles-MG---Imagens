@@ -1051,3 +1051,91 @@
 1049 R 2.5 0.5 7.5 5.5 | Faixa branca na lateral direita da foto original
 1050 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
 1051 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1052 2.5 0 7 5.5
+1053 2 0 6.5 5
+1054 2.5 0 6.5 5
+1055 3 0 7 5
+1056 2 0 6 5
+1057 R 2 1 6.5 6 | Contraluz forte do sol, fiação pouco visível
+1058 2.5 0 6.5 5
+1059 1.5 0 5.5 5
+1060 2 0.5 6 5
+1061 3 0 7.5 5
+1062 3 0 7 4.5
+1063 R 1.5 0 5.5 5 | Poste com pouca fiação, encostado na fachada
+1064 2.5 0 6.5 4.5
+1065 1.5 0 5.5 5
+1066 2.5 0.5 7 5
+1067 2.5 1 6.5 5.5
+1068 R 2.5 0.5 6.5 5.5 | Há um segundo poste à direita; zoom feito no poste central
+1069 2.5 1 6.5 5.5
+1070 N | Poste não aparece na foto (só fiação e a fachada)
+1071 2.5 0 6.5 5
+1072 2.5 1 6.5 5.5
+1073 N | Poste não aparece na foto (foto horizontal da esquina)
+1074 2.5 1 6.5 5.5
+1075 1.5 0 6 5
+1076 2 1 6.5 6
+1077 2 0 6.5 5
+1078 2 0 6 5
+1079 2.5 0 6.5 5
+1080 R 3.5 0 7.5 5 | Poste com pouca fiação, encostado na fachada
+1081 1.5 1 5.5 5.5
+1082 R 2 0 6 5 | Contraluz forte do sol, fiação pouco visível
+1083 1.5 0 6 5
+1084 2.5 1 6.5 5.5
+1085 R 1.5 0 6 5 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1086 2.5 0.5 6.5 5
+1087 R 3 0 7 5 | Poste com pouca fiação
+1088 2 0.5 6.5 5
+1089 R 2.5 1 6.5 6 | Há um segundo poste à direita; zoom feito no poste central
+1090 1 0 5 5
+1091 2.5 0.5 6.5 5
+1092 2.5 1 6.5 5.5
+1093 2.5 0 6.5 5
+1094 2.5 0 6.5 5
+1095 1 0 5 4.5
+1096 1.5 0 6 5
+1097 4 0 8 5.5
+1098 R 2.5 0 6.5 5 | Contraluz forte do sol, fiação pouco visível
+1099 2.5 1 6.5 5.5
+1100 3 0.5 7 5.5
+1101 1.5 0.5 6 5.5
+1102 R 2.5 0.5 7 5.5 | Árvore ao fundo dificulta ver a fiação
+1103 R 2 1 6.5 6 | Contraluz forte do sol, fiação pouco visível
+1104 2.5 0 6.5 5.5
+1105 3 0.5 7.5 5.5
+1106 2.5 0.5 7 5.5
+1107 2.5 1 7 5.5
+1108 2 0.5 6.5 5.5
+1109 3.5 0.5 7.5 5.5
+1110 1.5 1 6 6
+1111 3 0 7.5 5
+1112 R 2.5 0.5 7 6 | Contraluz forte do sol, fiação pouco visível
+1113 2.5 1 7 5.5
+1114 R 2 0.5 6.5 5.5 | Contraluz forte do sol, fiação pouco visível
+1115 1.5 0 6 5
+1116 2.5 0 6.5 5
+1117 3 0 7.5 5.5
+1118 2.5 0 7 5
+1119 2.5 1 7 5.5
+1120 1 0 5 5
+1121 2 0.5 6.5 5.5
+1122 1.5 0 6 5
+1123 2.5 0 7 5.5
+1124 2.5 0 6.5 5
+1125 R 0 0 5 5 | Árvore encobre o poste e a fiação
+1126 2 0 6.5 5
+1127 2 1 6.5 5.5
+1128 2 0 6.5 5
+1129 2.5 0 6.5 5.5
+1130 R 1.5 0 6 5 | Há um segundo poste à direita; zoom feito no poste da esquerda (mais próximo)
+1131 2.5 1 6.5 5.5
+1132 3.5 0 8 5.5
+1133 2.5 0 7 5.5
+1134 3 0 7.5 5.5
+1135 2 1.5 6.5 6
+1136 B | Foto muito borrada
+1137 2.5 0 7 5.5
+1138 2.5 0 6.5 5
+1139 R 2.5 0 7 5 | Há um segundo poste à direita; zoom feito no poste central
