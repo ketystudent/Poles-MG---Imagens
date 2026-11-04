@@ -859,3 +859,195 @@
 857 2.5 0 6.5 5.5
 858 R 2 0 6.5 5.5 | Contraluz forte do sol, fiação pouco visível
 859 3.5 0.5 8 5.5
+860 1.5 0.5 6 5.5
+861 3.5 0.5 8 5.5
+862 3.5 0.5 8 5
+863 2.5 0.5 7 5.5
+864 R 3 0.5 7.5 5.5 | Poste com pouca fiação; contraluz
+865 2.5 0.5 7 5.5
+866 3.5 0.5 8 6
+867 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+868 1.5 0 5.5 5.5
+869 2.5 0.5 6.5 5
+870 3 0.5 8 5.5
+871 3.5 0.5 8 5.5
+872 2.5 0.5 7 5
+873 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+874 5 0.5 9.5 5.5
+875 2.5 0.5 7 5.5
+876 R 2.5 0.5 7 5.5 | Contraluz forte do sol, fiação pouco visível
+877 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+878 2 0.5 6.5 6
+879 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+880 3.5 0.5 8 5.5
+881 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+882 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+883 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+884 2 0 6.5 5.5
+885 0.5 0 4.5 5
+886 2.5 0 6.5 5
+887 R 3 0 7 5.5 | Árvore encobre parte do poste; contraluz
+888 1 0 5 5
+889 3.5 0.5 8 5.5
+890 2.5 0.5 7 5.5
+891 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+892 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+893 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+894 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+895 3 0.5 7.5 5.5
+896 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+897 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+898 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+899 3.5 0.5 8 5.5
+900 R 0 0 4.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+901 R 5 0.5 9 6 | Faixa branca na lateral esquerda da foto original
+902 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+903 4 0.5 9 5.5
+904 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+905 3 1 7.5 6
+906 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+907 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+908 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+909 3.5 0.5 8.5 5.5
+910 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+911 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+912 4 0.5 8.5 5.5
+913 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+914 R 3 1 8 5.5 | Foto original pequena; zoom com pouca nitidez
+915 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+916 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+917 3.5 0.5 8.5 5.5
+918 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+919 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+920 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+921 3 0.5 7.5 5.5
+922 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+923 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+924 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+925 R 0 0 4.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+926 3.5 0.5 8 6
+927 3.5 0.5 8 5.5
+928 3 0.5 7.5 5.5
+929 3.5 1 8 5.5
+930 1.5 0.5 6 5.5
+931 3 0.5 7.5 5.5
+932 3.5 0.5 8.5 5.5
+933 R 3 0.5 8 5.5 | Poste com pouca fiação
+934 R 3 0.5 7.5 5.5 | Há um segundo poste à direita; zoom feito no poste central
+935 3 0.5 7.5 5.5
+936 R 5 0.5 9.5 6 | Contraluz forte do sol, fiação pouco visível
+937 3 0.5 7.5 5.5
+938 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+939 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+940 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado; árvore à frente do poste
+941 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+942 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+943 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+944 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+945 3.5 0.5 8 5.5
+946 3 0.5 8.5 5.5
+947 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+948 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; árvore ao fundo
+949 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+950 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+951 3.5 0.5 8 5.5
+952 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+953 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+954 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+955 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+956 3.5 0.5 8.5 5.5
+957 1.5 0.5 6 5.5
+958 3 0.5 7 5.5
+959 R 1.5 0.5 6 5 | Contraluz forte do sol, fiação pouco visível
+960 3 1 7.5 5.5
+961 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+962 4 0.5 9 6
+963 1.5 0.5 7 5.5
+964 4.5 0.5 9 5.5
+965 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+966 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+967 3.5 0.5 8.5 5.5
+968 4 0.5 8.5 5.5
+969 2 0.5 6.5 5.5
+970 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+971 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+972 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+973 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+974 3.5 0.5 8 5.5
+975 2.5 0.5 7 5.5
+976 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+977 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+978 2.5 0.5 7 5.5
+979 R 4.5 0.5 9 5.5 | Faixa branca na lateral esquerda da foto original
+980 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+981 4.5 0.5 9 5.5
+982 3.5 0.5 8 5.5
+983 1 0 5 5.5
+984 3 0.5 8 5.5
+985 3.5 0.5 8 5.5
+986 4 0.5 8.5 5.5
+987 3.5 0.5 8 5.5
+988 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+989 3.5 0.5 8 5.5
+990 2.5 0 6.5 5
+991 3.5 0.5 8 5
+992 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+993 3 0.5 8 5.5
+994 4 0.5 9 5.5
+995 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+996 2 0.5 7 5.5
+997 R 4 0 9 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+998 R 3 0.5 8 5.5 | Coqueiro encobre parte da fiação
+999 3.5 0.5 8 5.5
+1000 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1001 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1002 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1003 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1004 3.5 0.5 8 5.5
+1005 R 5.5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1006 R 5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1007 2 0 6.5 5
+1008 3.5 0.5 8.5 5.5
+1009 4.5 0.5 9 5.5
+1010 4 0.5 8.5 5.5
+1011 3.5 0.5 8.5 5.5
+1012 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1013 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1014 R 3.5 0.5 8.5 5.5 | Árvore encobre parte da fiação e dos equipamentos
+1015 2.5 0.5 7.5 5.5
+1016 3 0.5 7.5 5.5
+1017 2.5 0.5 7.5 5.5
+1018 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1019 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1020 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1021 3.5 1 8.5 6
+1022 3.5 0.5 8.5 5.5
+1023 3 0.5 8 5.5
+1024 4 0.5 9 5.5
+1025 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1026 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1027 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1028 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada; árvore encobre parte do poste
+1029 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1030 3.5 0.5 8 5.5
+1031 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1032 4 0.5 8.5 5.5
+1033 R 3.5 0.5 8.5 6 | Contraluz forte do sol, fiação pouco visível
+1034 1.5 0 6 5
+1035 1.5 0.5 6.5 5.5
+1036 2 0.5 7 5.5
+1037 3.5 0.5 8.5 5.5
+1038 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1039 3 0.5 8 5.5
+1040 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1041 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1042 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1043 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1044 4 0.5 8.5 5
+1045 R 5 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1046 2.5 1 7.5 5.5
+1047 R 6 0 9.5 6 | Foto original já é uma montagem de duas imagens; zoom feito sobre a metade com o poste ampliado
+1048 2.5 0.5 7.5 5.5
+1049 R 2.5 0.5 7.5 5.5 | Faixa branca na lateral direita da foto original
+1050 R 6 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
+1051 R 5.5 0 9.5 6 | Foto original já parece ser uma documentação pronta (duas imagens com etiqueta cod_id/poste_numero); zoom feito sobre a metade ampliada
