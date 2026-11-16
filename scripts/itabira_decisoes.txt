@@ -1499,3 +1499,198 @@
 1497 1 0 6 6
 1498 R 1.5 1 6.5 6.5 | Poste com pouca fiação
 1499 2 0 7 6
+1500 R 4 0 9 6 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+1501 R 5 0 10 6 | Poste na borda direita
+1502 R 3 1.5 8 6.5 | Poste com pouca fiação
+1503 R 1 0 6 6 | Poste encostado na fachada; Poste com pouca fiação
+1504 3.5 0 8.5 6
+1505 R 3.5 0 8.5 6 | Poste com pouca fiação
+1506 N | Poste não aparece na foto (só fachada)
+1507 R 4.5 0 9.5 6 | Árvore à frente; Poste com pouca fiação
+1508 R 2.5 0 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+1509 R 2 0 7 6 | Poste encostado na fachada; Poste com pouca fiação
+1510 1 0 6 6
+1511 1.5 0 6.5 6
+1512 R 2.5 0 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+1513 R 3.5 0.5 8.5 6.5 | Poste com pouca fiação
+1514 R 3.5 0 8.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1515 R 1.5 0 6.5 6.5 | Poste com pouca fiação
+1516 R 1.5 0 6.5 6 | Poste com pouca fiação
+1517 R 1.5 0 6.5 6 | Poste com pouca fiação
+1518 R 1.5 0 6.5 6 | Poste com pouca fiação
+1519 R 6 0 10 6.5 | Poste na borda direita; Poste com pouca fiação
+1520 R 1.5 0.5 6.5 6 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+1521 R 1.5 0 6.5 6 | Poste com pouca fiação
+1522 R 3 0 8 6 | Poste com pouca fiação
+1523 R 1.5 0 6.5 5.5 | Poste encostado no muro; Poste com pouca fiação
+1524 R 2.5 0 7.5 6 | Poste com pouca fiação
+1525 1.5 0 6.5 6
+1526 R 2 1 7 7 | Vegetação encobre o poste; Poste com pouca fiação
+1527 R 2.5 0 7.5 6.5 | Bananeiras ao fundo; Poste com pouca fiação
+1528 R 0.5 0 5.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1529 R 2.5 0 7.5 6 | Árvore à frente; Poste com pouca fiação
+1530 1 0 6 6
+1531 2.5 0 7.5 6
+1532 3 0 8 6
+1533 2.5 0 7.5 6
+1534 2.5 0 7.5 6
+1535 R 0.5 0 5.5 6.5 | Poste encostado no prédio; Poste com pouca fiação
+1536 R 1 0 6 6.5 | Poste encostado no prédio; Poste com pouca fiação
+1537 R 1 1 6 6.5 | Árvore encobre o poste
+1538 2 0 7 6
+1539 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1540 R 0.5 0 5.5 6 | Contraluz forte do sol
+1541 R 1.5 0 6.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1542 R 1.5 1 6.5 6.5 | Árvore seca à frente; Poste com pouca fiação
+1543 R 0 0 5 6 | Poste na borda esquerda; Poste com pouca fiação
+1544 2.5 0 7.5 6
+1545 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1546 R 1.5 0 6.5 6 | Poste com pouca fiação
+1547 R 1 0.5 6 6 | Poste com pouca fiação
+1548 R 2 1 7 6 | Poste com pouca fiação
+1549 R 1.5 0 6.5 6 | Poste com pouca fiação
+1550 R 0 0 5 6.5 | Poste encostado na fachada; poste na borda esquerda
+1551 R 2 0 7 6 | Poste encostado na fachada; Poste com pouca fiação
+1552 R 2 0 7 6 | Poste com pouca fiação
+1553 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1554 1.5 0 6.5 6
+1555 1.5 0.5 6.5 6
+1556 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1557 1.5 0 6.5 6.5
+1558 R 1.5 0 6.5 6 | Poste encostado no prédio
+1559 R 3.5 0 8.5 6 | Poste com pouca fiação
+1560 1.5 0 6.5 6
+1561 R 1.5 0 6.5 6 | Poste com pouca fiação
+1562 R 2.5 0.5 7.5 6 | Poste encostado no muro; Poste com pouca fiação
+1563 R 1.5 0 6.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1564 R 3 0 8 6 | Poste encostado na fachada; Poste com pouca fiação
+1565 R 2.5 0 7.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1566 R 0 0 5 6 | Árvore encobre o poste; Poste com pouca fiação
+1567 1.5 0 6.5 6
+1568 R 2.5 0 7.5 6 | Poste com pouca fiação
+1569 2.5 0 7.5 6
+1570 R 2.5 0 7.5 6 | Poste com pouca fiação
+1571 R 2 0.5 7 6 | Poste encostado na fachada; Poste com pouca fiação
+1572 R 5 0 10 6 | Poste na borda direita; Poste com pouca fiação
+1573 1.5 0 6.5 6
+1574 1.5 0 6.5 6
+1575 R 0 0 5 6 | Há um segundo poste ao lado; zoom feito no poste central
+1576 R 2 0 7 6 | Poste com pouca fiação
+1577 1.5 0 6.5 6
+1578 R 1 0 6 6 | Há um segundo poste ao lado; zoom feito no poste central
+1579 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1580 R 2.5 0 7.5 6.5 | Poste distante; Poste com pouca fiação
+1581 R 1.5 0 6.5 6 | Poste com pouca fiação
+1582 2.5 0 7.5 6
+1583 R 1 0 6 6 | Poste com pouca fiação
+1584 R 2.5 0 7.5 6 | Contraluz; Poste com pouca fiação
+1585 R 2 0 7 6 | Poste com pouca fiação
+1586 R 2.5 0.5 7.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1587 R 2.5 0.5 7.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1588 R 2.5 0 7.5 6 | Poste com pouca fiação
+1589 R 1.5 0.5 6.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1590 1.5 0.5 6.5 6
+1591 R 1.5 0 6.5 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1592 2 0 7 6
+1593 R 3.5 0.5 8.5 6.5 | Árvore ao fundo; Poste com pouca fiação
+1594 R 3 0 8 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1595 R 1.5 1.5 6.5 6.5 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+1596 R 1.5 0 6.5 6.5 | Há um segundo poste ao lado; zoom feito no poste central
+1597 R 0.5 0.5 5.5 6 | Vegetação ao lado; Poste com pouca fiação
+1598 1.5 0 6.5 6
+1599 R 3.5 0 8.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1600 1.5 0 6.5 6
+1601 R 2 0 7 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1602 R 2.5 0 7.5 6 | Vegetação ao lado; Poste com pouca fiação
+1603 1.5 0 6.5 6
+1604 R 2.5 0 7.5 6 | Poste encostado na fachada
+1605 R 3 0 8 6 | Poste com pouca fiação
+1606 R 2 0 7 6 | Árvore ao lado; Poste com pouca fiação
+1607 1.5 0 6.5 6
+1608 2.5 0 7.5 6
+1609 R 2.5 0 7.5 6 | Poste com pouca fiação
+1610 R 1.5 0 6.5 6 | Poste com pouca fiação
+1611 2 0 7 6
+1612 1.5 0 6.5 6
+1613 R 3.5 0 8.5 6.5 | Poste encostado no prédio; Poste com pouca fiação
+1614 R 3.5 0.5 8.5 6.5 | Poste encostado na fachada; contraluz
+1615 R 0.5 0.5 5.5 6.5 | Árvores ao lado; Poste com pouca fiação
+1616 R 1.5 1 6.5 6.5 | Poste com pouca fiação
+1617 R 1 0 6 6 | Poste encostado na fachada; Poste com pouca fiação
+1618 1.5 0 6.5 6
+1619 R 2.5 0.5 7.5 6.5 | Poste com pouca fiação
+1620 R 0 0 5 6 | Palmeiras ao lado; Poste com pouca fiação
+1621 R 2.5 0 7.5 6 | Foto original pequena; zoom com pouca nitidez
+1622 R 1 0 6 6 | Contraluz; Poste com pouca fiação
+1623 2.5 0 7.5 6
+1624 2.5 0 7.5 6
+1625 R 2 0 7 6 | Poste com pouca fiação
+1626 2.5 0 7.5 6.5
+1627 2.5 0 7.5 6
+1628 R 3 0.5 8 6 | Poste com pouca fiação
+1629 R 3 0 8 6 | Poste com pouca fiação
+1630 R 0 0 5 6.5 | Poste encostado na fachada
+1631 R 2 0 7 6.5 | Poste com pouca fiação
+1632 1.5 0 6.5 6
+1633 R 2.5 0 7.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1634 R 2 0 7 6 | Contraluz forte do sol
+1635 R 2 0 7 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1636 2 0 7 6
+1637 2 0 7 6
+1638 R 2 0.5 7 6.5 | Poste com pouca fiação
+1639 2 0 7 6
+1640 R 1 0 6 6 | Poste com pouca fiação
+1641 R 2 0 7 6.5 | Vegetação atrás do poste; Poste com pouca fiação
+1642 1 0 6 6
+1643 1.5 0 6.5 6
+1644 R 2.5 0 7.5 6 | Contraluz forte do sol
+1645 R 1.5 0 6.5 6 | Poste com pouca fiação
+1646 R 1.5 0 6.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1647 R 2.5 0 7.5 6 | Poste com pouca fiação
+1648 R 2 0 7 6 | Poste com pouca fiação
+1649 R 4 0 9 6 | Poste com pouca fiação
+1650 R 1.5 0 6.5 6 | Poste com pouca fiação
+1651 1 0 6 6
+1652 R 5.5 0.5 10 6 | Poste na borda direita; Poste com pouca fiação
+1653 R 2.5 0 7.5 6 | Poste com pouca fiação
+1654 R 4 0 9 6 | Poste encostado na fachada; Poste com pouca fiação
+1655 R 0.5 0 5.5 6 | Poste com pouca fiação
+1656 R 0 0 5 6 | Poste na borda esquerda; Poste com pouca fiação
+1657 R 5.5 0.5 10 6 | Poste na borda direita; Poste com pouca fiação
+1658 R 2.5 1 7.5 6 | Poste com pouca fiação
+1659 R 3 0 8 6.5 | Árvores encobrem o poste; Poste com pouca fiação
+1660 R 3.5 1 8.5 6 | Poste com pouca fiação
+1661 R 0.5 0 5.5 6 | Árvore ao lado; Poste com pouca fiação
+1662 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1663 2.5 0 7.5 6
+1664 R 1.5 0 6.5 6 | Vegetação ao lado; Poste com pouca fiação
+1665 R 1 0.5 6 6 | Poste com pouca fiação
+1666 R 2 0 7 6 | Poste com pouca fiação
+1667 R 4 0 9 6 | Poste com pouca fiação
+1668 R 1.5 0 6.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1669 R 0 0 5 6 | Poste encostado na fachada; Poste com pouca fiação
+1670 R 0 0.5 5 6 | Poste com pouca fiação
+1671 R 1 0 6 6 | Poste encostado na fachada
+1672 R 2 0.5 7 6 | Poste com pouca fiação
+1673 2 0 7 6
+1674 R 3 1.5 8 6.5 | Poste com pouca fiação
+1675 R 0.5 0 5.5 6 | Poste com pouca fiação
+1676 R 1.5 0 6.5 6 | Poste com pouca fiação
+1677 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1678 R 1.5 0.5 6.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1679 2.5 0 7.5 6
+1680 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1681 1.5 0 6.5 6
+1682 R 1.5 0 6.5 6 | Árvores atrás do poste; Poste com pouca fiação
+1683 R 2.5 0 7.5 6 | Poste com pouca fiação
+1684 R 2.5 0 7.5 6 | Poste com pouca fiação
+1685 R 0 0 5 6 | Contraluz; Poste com pouca fiação
+1686 R 2 0 7 6 | Poste encostado na fachada
+1687 R 2 0.5 7 6 | Poste com pouca fiação
+1688 R 2.5 0 7.5 6 | Poste com pouca fiação
+1689 R 5 1 10 6 | Poste com pouca fiação
+1690 R 1.5 0 6.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+1691 R 1 0 6 6 | Poste com pouca fiação
+1692 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1693 R 2 0 7 6 | Poste com pouca fiação
+1694 2.5 0 7.5 6
