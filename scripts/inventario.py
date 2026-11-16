@@ -6,7 +6,7 @@ from PIL import Image
 
 root, out = sys.argv[1], sys.argv[2]
 rows, by_hash = [], {}
-for f in sorted(glob.glob(os.path.join(root, "*", "*", "*.jpg"))):
+for f in sorted(glob.glob(os.path.join(root, "*", "*", "**", "*.jpg"), recursive=True)):
     rel = os.path.relpath(f, root)
     data = open(f, "rb").read()
     h = hashlib.md5(data).hexdigest()
