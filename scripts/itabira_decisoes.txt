@@ -1694,3 +1694,228 @@
 1692 R 2.5 0.5 7.5 6 | Poste com pouca fiação
 1693 R 2 0 7 6 | Poste com pouca fiação
 1694 2.5 0 7.5 6
+1695 R 6 0 10 6.5 | Poste na borda direita; Poste encostado na fachada
+1696 R 5.5 0 10 6 | Poste na borda direita; Poste com pouca fiação
+1697 R 3 0 6.5 6 | Foto horizontal com o poste no centro
+1698 2 0 7 6
+1699 R 2.5 0.5 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1700 R 2.5 0 7.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1701 2.5 0 7.5 6
+1702 R 5 0 10 6 | Poste encostado na fachada; Foto com pouca nitidez
+1703 R 5.5 0 10 6 | Poste na borda direita; Poste com pouca fiação
+1704 R 5.5 0 10 6 | Poste com pouca fiação
+1705 R 5.5 0.5 10 6 | Poste na borda direita; Poste com pouca fiação
+1706 R 3 0.5 8 6 | Poste com pouca fiação
+1707 R 4 1 9 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1708 R 2.5 0.5 7.5 6.5 | Árvore atrás do poste; Poste com pouca fiação
+1709 R 4 0.5 9 6 | Poste com pouca fiação
+1710 R 3.5 0.5 8.5 6.5 | Poste com pouca fiação
+1711 R 2.5 1 7.5 6.5 | Poste com pouca fiação
+1712 R 2 1.5 7 6.5 | Contraluz; Poste encostado na fachada
+1713 R 2.5 1 7.5 6.5 | Poste com pouca fiação
+1714 R 3 0.5 8 6 | Poste encostado na fachada
+1715 R 1 0.5 6 6 | Poste com pouca fiação
+1716 R 2 0.5 7 6 | Poste com pouca fiação
+1717 R 2 1.5 7 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1718 R 0.5 0.5 5.5 6 | Poste com pouca fiação
+1719 R 3 0 8 6 | Há um segundo poste ao lado; zoom feito no poste central
+1720 R 2.5 0 7.5 6 | Poste com pouca fiação
+1721 R 1.5 0.5 6.5 6 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+1722 R 3 0.5 8 6 | Poste com pouca fiação
+1723 R 3 0.5 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+1724 R 2 0 7 6 | Foto com pouca nitidez; Poste encostado na fachada
+1725 R 0.5 0.5 5.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1726 R 3.5 0 8.5 6 | Poste com pouca fiação
+1727 R 4 1 9 6.5 | Poste com pouca fiação
+1728 R 0.5 0.5 5.5 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1729 R 1.5 0 6.5 6 | Poste com pouca fiação
+1730 B | Foto muito borrada
+1731 R 4 0 9 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1732 R 2.5 0 7.5 6.5 | Poste encostado na fachada
+1733 R 2 0 7 6 | Poste com pouca fiação
+1734 R 4 0.5 9 6 | Poste com pouca fiação
+1735 R 4.5 1.5 9.5 6.5 | Poste com pouca fiação
+1736 R 1.5 0.5 6.5 6.5 | Árvore encobre o poste; Poste com pouca fiação
+1737 R 1.5 1 6.5 6 | Poste com pouca fiação
+1738 R 4 1 9 6.5 | Poste com pouca fiação
+1739 R 5 0 10 6.5 | Poste na borda direita; Poste com pouca fiação
+1740 R 4 0.5 9 6 | Poste com pouca fiação
+1741 R 5 0 10 6 | Poste com pouca fiação
+1742 R 2 2.5 7 7 | Poste encostado na fachada; Poste com pouca fiação
+1743 1 0 6 6
+1744 R 3 1.5 8 6.5 | Vegetação ao fundo; Poste com pouca fiação
+1745 R 2 1 7 6.5 | Poste encostado no prédio; Poste com pouca fiação
+1746 R 5 0.5 10 6 | Poste com pouca fiação
+1747 R 1.5 0 6.5 6 | Poste com pouca fiação
+1748 R 2.5 0 7.5 6 | Poste com pouca fiação
+1749 R 2.5 0 7.5 6 | Poste com pouca fiação
+1750 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1751 R 3 0.5 8 6 | Poste com pouca fiação
+1752 R 2.5 1 7.5 6 | Poste com pouca fiação
+1753 R 5 0 8.5 6 | Foto horizontal com poste distante; Poste com pouca fiação
+1754 R 1 0 6 6 | Poste com pouca fiação
+1755 R 3.5 0 8.5 6 | Poste com pouca fiação
+1756 R 1 0 6 6 | Poste inclinado
+1757 R 3 0 8 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1758 R 2.5 0 7.5 6 | Poste com pouca fiação
+1759 R 2.5 0.5 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1760 R 0 0.5 5 6 | Poste com pouca fiação
+1761 R 5 0 10 6 | Poste na borda direita; Poste com pouca fiação
+1762 B | Foto borrada
+1763 B | Foto borrada; poste na borda
+1764 R 4 0 9 6 | Poste com pouca fiação
+1765 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1766 R 5 0 10 6 | Poste na borda direita; Poste com pouca fiação
+1767 R 1.5 1.5 6.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1768 R 0 1 5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1769 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1770 R 0 0.5 5 6 | Poste com pouca fiação
+1771 R 3 0 8 6 | Poste com pouca fiação
+1772 R 0.5 0 5.5 6 | Vegetação ao lado; Poste com pouca fiação
+1773 R 3 0.5 8 6 | Poste com pouca fiação
+1774 R 6 0.5 10 6 | Poste na borda direita; Poste com pouca fiação
+1775 2 0 7 6
+1776 R 2.5 0 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+1777 R 1 2.5 6 7 | Foto com pouca nitidez; Poste com pouca fiação
+1778 R 3 0.5 8 6 | Poste encostado na fachada; Poste com pouca fiação
+1779 R 4.5 0.5 9.5 6 | Poste com pouca fiação
+1780 R 4 0.5 9 6 | Poste com pouca fiação
+1781 R 4.5 0.5 9.5 6 | Poste com pouca fiação
+1782 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+1783 R 2.5 0 7.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1784 2.5 0 7.5 6
+1785 R 0.5 0 5.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1786 R 4 0 9 6 | Poste com pouca fiação
+1787 R 3.5 0 8.5 6 | Poste com pouca fiação
+1788 R 2.5 0 7.5 6 | Poste com pouca fiação
+1789 R 3.5 0 8.5 6 | Poste encostado na fachada
+1790 R 3 1 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1791 R 0.5 0 5.5 6 | Poste com pouca fiação
+1792 R 3.5 0 8.5 6 | Poste com pouca fiação
+1793 R 1 0 6 6 | Poste com pouca fiação
+1794 R 3 0 8 6 | Poste com pouca fiação
+1795 R 1.5 0.5 6.5 6 | Foto com pouca nitidez; Poste encostado na fachada
+1796 R 3 0 8 6 | Poste com pouca fiação
+1797 R 2.5 0 7.5 6 | Poste com pouca fiação
+1798 R 4.5 1 9.5 6.5 | Poste com pouca fiação
+1799 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis; contraluz
+1800 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1801 1.5 0 6.5 6
+1802 R 1 0 6 6 | Poste com pouca fiação
+1803 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1804 1.5 0 6.5 6
+1805 R 5.5 1 8.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1806 1.5 0 6.5 6
+1807 R 3.5 0 8.5 6 | Poste com pouca fiação
+1808 R 0.5 0 5.5 6 | Foto com pouca nitidez; Poste encostado na fachada
+1809 R 3.5 0.5 8.5 6 | Poste com pouca fiação
+1810 1 0 6 6
+1811 R 3 1 8 6 | Poste com pouca fiação
+1812 R 3 0.5 8 6 | Há um segundo poste ao lado; zoom feito no poste central
+1813 R 1.5 0 5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1814 R 4.5 0.5 9.5 6 | Poste com pouca fiação
+1815 R 0.5 0 5.5 6 | Poste com pouca fiação
+1816 1.5 0 6.5 6
+1817 R 4 1 7.5 6 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1818 R 3 1 8 6 | Poste distante; Poste com pouca fiação
+1819 R 4 0.5 9 6 | Poste com pouca fiação
+1820 R 2 0 7 6 | Foto com pouca nitidez
+1821 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+1822 R 1.5 0 6.5 6 | Poste com pouca fiação
+1823 R 1 0 6 6 | Poste com pouca fiação
+1824 N | Poste não aparece na foto (só fachada e placa)
+1825 R 4 0.5 9 6 | Poste com pouca fiação
+1826 R 1 0 6 6 | Poste encostado na fachada; Poste com pouca fiação
+1827 R 1 0.5 6 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1828 R 2.5 0 7.5 6 | Poste com pouca fiação
+1829 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1830 R 2.5 0 7.5 6 | Poste com pouca fiação
+1831 R 2.5 0 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+1832 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1833 B | Foto borrada
+1834 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1835 R 3 1 8 6.5 | Poste encostado na fachada; Poste com pouca fiação
+1836 R 2 1 7.5 6.5 | Há um segundo poste ao lado; zoom feito no poste central; Foto com pouca nitidez
+1837 R 2.5 1.5 7.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1838 1 0 6 6
+1839 R 4.5 0 9.5 6 | Poste com pouca fiação
+1840 B | Foto borrada
+1841 1.5 0 6.5 6
+1842 R 0 0 5 6 | Poste encostado na fachada; Poste com pouca fiação
+1843 R 2.5 0 7.5 6 | Poste com pouca fiação
+1844 R 4.5 0 9.5 6 | Poste com pouca fiação
+1845 R 0 0 4.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1846 R 5 0 10 6 | Poste com pouca fiação
+1847 R 3.5 0.5 8.5 6 | Poste com pouca fiação
+1848 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+1849 R 4 0 9 6 | Poste com pouca fiação
+1850 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1851 R 2.5 0 7.5 6 | Poste com pouca fiação
+1852 R 1 0 6 6 | Poste com pouca fiação
+1853 R 3 0 8 6 | Poste com pouca fiação
+1854 R 3.5 0 8.5 6 | Poste com pouca fiação
+1855 R 3 0 8 6 | Arbusto com flores ao lado
+1856 R 5 1 10 6 | Poste com pouca fiação
+1857 R 2.5 0 7.5 6 | Poste com pouca fiação
+1858 R 2.5 0.5 7.5 6 | Palmeiras atrás; Poste com pouca fiação
+1859 R 0.5 0 5.5 6 | Há um segundo poste ao lado; zoom feito no poste central; Foto com pouca nitidez
+1860 R 2.5 0 7.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1861 R 2 0 7 6 | Poste com pouca fiação
+1862 R 4.5 0 9.5 6 | Poste com pouca fiação
+1863 R 3 0 8 6 | Há um segundo poste ao lado; zoom feito no poste central
+1864 R 4.5 0 9.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1865 R 4.5 0 9.5 6 | Poste com pouca fiação
+1866 R 0.5 0 5.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1867 R 3 0 8 6 | Poste com pouca fiação
+1868 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+1869 R 4.5 0 9.5 6 | Árvores ao lado; Poste com pouca fiação
+1870 R 1.5 0 6.5 6 | Poste encostado na fachada; Poste com pouca fiação
+1871 R 2.5 1.5 7.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1872 R 2.5 0 6 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1873 R 1.5 0 6.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+1874 R 3.5 0 8.5 6 | Poste com pouca fiação
+1875 R 1.5 0 6.5 6 | Há um segundo poste ao lado; zoom feito no poste central
+1876 R 5.5 0 9 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1877 R 3.5 0 8.5 6 | Poste com pouca fiação
+1878 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1879 R 3.5 0.5 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1880 R 2 0 7 6 | Poste com pouca fiação
+1881 R 4 0 9 6 | Poste com pouca fiação
+1882 R 4.5 0 9.5 6.5 | Foto com pouca nitidez; Poste encostado na fachada
+1883 R 1.5 1 6.5 6.5 | Palmeira encobre o poste
+1884 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1885 R 4 0.5 9 6.5 | Foto com pouca nitidez; Poste encostado na fachada
+1886 R 4 0.5 9 6 | Poste com pouca fiação
+1887 R 3.5 0 8.5 6 | Poste com pouca fiação
+1888 R 1.5 2.5 6.5 7 | Poste distante; Poste com pouca fiação
+1889 B | Foto borrada
+1890 R 5.5 0 9.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1891 R 3.5 0.5 8.5 6.5 | Árvore com flores ao lado; Poste com pouca fiação
+1892 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1893 R 4.5 0.5 9.5 6 | Poste com pouca fiação
+1894 R 2.5 0.5 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1895 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1896 R 1.5 0 6.5 6 | Contraluz; Poste com pouca fiação
+1897 R 2 0 7 6 | Poste com pouca fiação
+1898 R 1.5 0.5 6.5 6.5 | Poste com pouca fiação
+1899 R 4.5 0 9.5 6 | Poste com pouca fiação
+1900 R 2.5 0 6 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1901 R 1.5 0 6.5 6 | Poste com pouca fiação
+1902 R 2 0 7 6 | Poste com pouca fiação
+1903 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1904 R 3 0 8 6 | Poste encostado na fachada; Poste com pouca fiação
+1905 R 2.5 0 6 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+1906 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1907 R 1 0 6 6 | Poste com pouca fiação
+1908 R 1.5 0 6.5 6 | Poste com pouca fiação
+1909 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1910 R 1 1.5 6 6.5 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+1911 R 2 1 7 6.5 | Poste com pouca fiação
+1912 R 2 1.5 7 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+1913 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+1914 B | Foto borrada
+1915 R 1 0 6 6 | Poste com pouca fiação
+1916 R 1.5 0.5 6.5 6 | Foto com pouca nitidez; contraluz
+1917 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+1918 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+1919 R 2.5 0 7.5 6 | Poste com pouca fiação
