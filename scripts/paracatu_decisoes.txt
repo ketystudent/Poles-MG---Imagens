@@ -939,3 +939,223 @@
 937 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
 938 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
 939 R 3.5 0 8.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+940 R 1 0 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+941 R 2 2 7 7 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+942 R 3 0 8 7 | Foto tirada muito de perto; poste inclinado
+943 R 1.5 0 6.5 7 | A foto original já é um close da fiação; base do poste não aparece
+944 R 3.5 1 8.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+945 R 1.5 0 6.5 7 | A foto original já é um close da fiação; base do poste não aparece; contraluz forte do sol
+946 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+947 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+948 R 2.5 1 7.5 7 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+949 R 3 0 8 7.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+950 R 1 0.5 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+951 R 2 0.5 7 7 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+952 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece; Vegetação encobre o poste
+953 R 2 0 7 8 | A foto original já é um close da fiação; base do poste não aparece
+954 R 1.5 0.5 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+955 R 0.5 0.5 5.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+956 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+957 R 2 0.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+958 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+959 R 2.5 0 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Vegetação encobre o poste
+960 R 2 3 7 9 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+961 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+962 R 0.5 0 5.5 7 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+963 R 2.5 1.5 7.5 8.5 | A foto original já é um close da fiação; base do poste não aparece
+964 R 3 0.5 8 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+965 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+966 R 2.5 0.5 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+967 R 3 1 8 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+968 R 1.5 1.5 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+969 R 3 1.5 8 8.5 | A foto original já é um close da fiação; base do poste não aparece
+970 R 0 0 5 7.5 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+971 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece; Poste encostado na fachada
+972 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+973 R 1.5 0.5 6.5 7 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+974 R 2 0.5 7 7 | A foto original já é um close da fiação; base do poste não aparece
+975 R 1.5 0.5 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+976 R 1.5 0 6.5 7 | A foto original já é um close da fiação; base do poste não aparece
+977 R 2.5 0 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+978 R 2.5 0.5 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+979 R 2.5 0 7.5 8 | A foto original já é um close da fiação; base do poste não aparece
+980 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+981 R 2 1.5 7 7 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+982 R 1 0.5 6 7 | A foto original já é um close da fiação; base do poste não aparece
+983 R 2 0.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece
+984 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+985 R 1 1 6 8.5 | A foto original já é um close da fiação; base do poste não aparece
+986 R 1.5 1 6.5 7 | A foto original já é um close da fiação; base do poste não aparece; Vegetação encobre o poste
+987 R 2.5 1 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+988 R 0 0 5 8 | A foto original já é um close da fiação; base do poste não aparece; contraluz forte do sol
+989 R 2.5 0.5 7.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
+990 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+991 R 1 1 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+992 R 3 1 8 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+993 R 0.5 1 5.5 8 | A foto original já é um close da fiação; base do poste não aparece
+994 R 2.5 1.5 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+995 R 2.5 1 7.5 8.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+996 R 2 1.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+997 R 3 1 8 8.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+998 R 1.5 0 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+999 R 2.5 1 7.5 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1000 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1001 R 1.5 0.5 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1002 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+1003 R 1 0 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1004 R 2 0 7 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1005 R 1.5 2 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1006 R 2 0 7 7 | A foto original já é um close da fiação; base do poste não aparece
+1007 R 1 1 6 8 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+1008 R 3 3 8 9 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1009 B | Foto muito borrada
+1010 R 3 1 8 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1011 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1012 R 0 1 5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1013 R 2 1 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1014 R 2.5 1.5 7.5 8.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+1015 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1016 R 2.5 1.5 7.5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1017 R 1.5 1.5 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1018 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1019 R 2.5 0 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1020 R 6 2 10 9.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1021 R 1.5 1.5 6.5 8.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1022 R 2 1 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1023 R 0.5 1 5.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+1024 R 0 0 5 7 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1025 R 1 1 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1026 R 2 1 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1027 R 3.5 0 8.5 7 | A foto original já é um close da fiação; base do poste não aparece
+1028 R 2 1.5 7 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1029 R 2.5 0 7.5 7 | A foto original já é um close da fiação; base do poste não aparece
+1030 R 1 2 6 9 | A foto original já é um close da fiação; base do poste não aparece
+1031 R 0 0 5 7 | A foto original já é um close da fiação; base do poste não aparece
+1032 R 2 0 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1033 R 2 1 7 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1034 R 2.5 2 7.5 9.5 | A foto original já é um close da fiação; base do poste não aparece
+1035 R 2 1 7 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1036 R 2 1 7 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1037 R 2 1 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1038 R 2.5 1 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1039 B | Foto muito borrada
+1040 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1041 R 1.5 1.5 6.5 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1042 R 2 0.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1043 R 0.5 0 5.5 7 | A foto original já é um close da fiação; base do poste não aparece; Poste encostado na fachada
+1044 R 0.5 0 5.5 7 | A foto original já é um close da fiação; base do poste não aparece
+1045 R 1 2 6 8 | A foto original já é um close da fiação; base do poste não aparece; contraluz forte do sol
+1046 R 1 0 6 7 | A foto original já é um close da fiação; base do poste não aparece
+1047 R 2.5 1 7.5 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1048 R 1.5 2 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1049 R 3 1 8 8 | A foto original já é um close da fiação; base do poste não aparece
+1050 R 0.5 0 5.5 7 | A foto original já é um close da fiação; base do poste não aparece
+1051 R 1.5 1.5 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1052 R 2.5 1.5 7.5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1053 R 3 1.5 8 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1054 R 2.5 1.5 7.5 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1055 R 1.5 1.5 6.5 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1056 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1057 R 2 1 7 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1058 R 1.5 1 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1059 R 2.5 1 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1060 R 1 0 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1061 R 1.5 0.5 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1062 R 1 1 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1063 R 2.5 1 7.5 8.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1064 R 1 0.5 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1065 R 1.5 1.5 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1066 R 2 0.5 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1067 R 3 1 8 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1068 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Vegetação encobre o poste
+1069 R 2.5 1 7.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1070 R 1 1.5 6 8.5 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+1071 R 1.5 1 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1072 R 1.5 0 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1073 R 1.5 1 6.5 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1074 R 2.5 1.5 7.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1075 R 0 1 5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1076 R 1.5 1 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1077 R 2 2 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1078 R 2 1 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1079 R 2 1 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1080 R 1.5 1 6.5 7 | A foto original já é um close da fiação; base do poste não aparece
+1081 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1082 B | Foto borrada e com névoa
+1083 R 0.5 1.5 5.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+1084 R 2.5 1 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1085 R 3 2 8 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1086 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1087 R 1.5 2.5 6.5 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1088 R 1 1 6 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1089 R 2.5 1 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1090 R 1 1 6 8 | A foto original já é um close da fiação; base do poste não aparece
+1091 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1092 R 3 0.5 8 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1093 R 2 2 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1094 R 1 0.5 6 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1095 R 1 0 6 7 | A foto original já é um close da fiação; base do poste não aparece
+1096 R 1.5 1 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1097 R 2 1 7 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1098 R 2 0.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1099 R 2 0.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+1100 R 2 2 7 9.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1101 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1102 R 2.5 0 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1103 B | Foto muito borrada
+1104 R 2.5 2.5 7.5 9.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central; Vegetação encobre o poste
+1105 R 1 1 6 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1106 R 1.5 1 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1107 R 2.5 2 7.5 8.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1108 R 2 2 7 8 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
+1109 R 3 1.5 8 8 | A foto original já é um close da fiação; base do poste não aparece
+1110 R 1.5 1.5 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1111 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1112 R 1.5 1 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1113 R 1.5 2 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1114 R 3.5 1.5 8.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; Vegetação encobre o poste
+1115 R 2 2 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1116 R 3 1.5 8 8 | A foto original já é um close da fiação; base do poste não aparece
+1117 R 2.5 2 7.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1118 R 2.5 2.5 7.5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1119 R 2.5 2 7.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1120 R 7 0 10 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez; poste na borda direita
+1121 R 2 2.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1122 R 2 1.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+1123 R 3.5 1 8.5 7 | A foto original já é um close da fiação; base do poste não aparece
+1124 R 2.5 1.5 7.5 7.5 | A foto original já é um close da fiação; base do poste não aparece; contraluz
+1125 R 2 2.5 7 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1126 B | Foto muito borrada
+1127 R 1.5 1.5 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1128 R 1.5 2.5 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez; Poste com pouca fiação
+1129 R 3.5 1.5 8.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1130 R 0 1 5 9 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez; Poste com pouca fiação
+1131 R 1.5 2 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1132 R 0.5 1.5 5.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1133 R 2 2 7 8.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez; Poste com pouca fiação
+1134 R 1 1 6 8 | A foto original já é um close da fiação; base do poste não aparece
+1135 R 1 2.5 6 8 | A foto original já é um close da fiação; base do poste não aparece; contraluz forte do sol
+1136 R 1.5 3 6.5 8.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1137 R 1.5 2 6.5 8.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1138 R 1.5 0 6.5 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez; Vegetação encobre o poste
+1139 R 2 1.5 7 8 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1140 R 1.5 1 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1141 R 1.5 0 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1142 R 3 0 8 7 | A foto original já é um close da fiação; base do poste não aparece; Vegetação encobre o poste
+1143 R 1.5 1 6.5 7 | Vegetação encobre o poste; Poste com pouca fiação
+1144 R 1.5 0.5 6.5 7 | Vegetação encobre o poste; Poste com pouca fiação
+1145 R 1.5 1.5 6.5 7.5 | Vegetação encobre o poste; contraluz
+1146 R 2.5 1.5 7.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1147 R 1 0 6 8.5 | A foto original já é um close da fiação; base do poste não aparece
+1148 B | Foto muito borrada
+1149 R 2 1.5 7 7.5 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1150 R 0.5 0 5.5 7 | A foto original já é um close da fiação; base do poste não aparece
+1151 R 1.5 0.5 6.5 8 | A foto original já é um close da fiação; base do poste não aparece
+1152 R 2 1.5 7 8 | A foto original já é um close da fiação; base do poste não aparece
+1153 R 1 1.5 6 7 | Poste com pouca fiação
+1154 R 2 2 7 7.5 | Poste com pouca fiação
+1155 R 0 2 5 8 | A foto original já é um close da fiação; base do poste não aparece; Poste com pouca fiação
+1156 R 2 1.5 7 8.5 | A foto original já é um close da fiação; base do poste não aparece; Foto com pouca nitidez
+1157 B | Foto muito borrada
+1158 R 1.5 1 6.5 7.5 | A foto original já é um close da fiação; base do poste não aparece
+1159 R 3.5 0 7 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
