@@ -3285,3 +3285,267 @@
 3283 R 3.5 0 8.5 6 | Poste com pouca fiação
 3284 R 3 0 8 6 | Poste com pouca fiação
 3285 R 3.5 0 7 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+3286 R 3.5 0 8.5 6 | Contraluz; Poste com pouca fiação
+3287 R 2.5 1 7.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3288 B | Foto muito borrada e superexposta
+3289 R 3 0.5 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3290 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+3291 R 3 0 8 6 | Poste com pouca fiação
+3292 R 5 0 10 6 | Poste com pouca fiação
+3293 R 4 0 9 6 | Coqueiros ao lado; Poste com pouca fiação
+3294 R 4.5 1 9.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3295 R 1.5 1 6.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3296 R 1.5 1.5 6.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3297 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3298 R 2.5 1 7.5 6.5 | Poste com pouca fiação
+3299 R 4 0.5 9 6 | Poste com pouca fiação
+3300 R 0 0 5 6 | Foto com pouca nitidez; contraluz
+3301 R 4.5 0 9.5 6 | Poste com pouca fiação
+3302 R 4.5 0 9.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3303 R 3 0.5 8 6 | Poste com pouca fiação
+3304 R 3 0 8 6 | Poste encostado na fachada; Poste com pouca fiação
+3305 R 3.5 1.5 8.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3306 R 3 1 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3307 R 3.5 0.5 8.5 6 | Poste com pouca fiação
+3308 B | Foto muito borrada
+3309 B | Foto muito borrada
+3310 R 1.5 1.5 6.5 6.5 | Poste com pouca fiação
+3311 B | Foto muito borrada
+3312 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3313 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3314 R 3.5 0 8.5 6 | Poste com pouca fiação
+3315 R 0 0 5 6 | Poste com pouca fiação
+3316 N | Poste não aparece em destaque (só braço de iluminação e vegetação)
+3317 R 3 0 8 6 | Poste com pouca fiação
+3318 R 2.5 0 7.5 6 | Poste com pouca fiação
+3319 R 1.5 0 6.5 6 | Poste com pouca fiação
+3320 R 1 0 6 6 | Poste com pouca fiação
+3321 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3322 R 3.5 0 7 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+3323 R 3 0 8 6 | Poste com pouca fiação
+3324 R 2.5 2.5 7.5 7 | Há um segundo poste ao lado; zoom feito no poste central; Foto com pouca nitidez
+3325 R 2.5 1.5 7.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3326 R 3.5 1 8.5 6.5 | Poste com pouca fiação
+3327 R 2.5 1 7.5 6.5 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+3328 R 1 1 6 6.5 | Poste com pouca fiação
+3329 R 1.5 0.5 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3330 R 1.5 2 6.5 7 | Poste com pouca fiação
+3331 R 3.5 0.5 8.5 6 | Poste com pouca fiação
+3332 R 4.5 1 9.5 6.5 | Poste com pouca fiação
+3333 R 3 2 8 7 | Foto com pouca nitidez; Poste com pouca fiação
+3334 R 4.5 0 9.5 6 | Poste com pouca fiação
+3335 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+3336 R 4 0.5 9 6 | Poste com pouca fiação
+3337 R 2.5 1 7.5 6.5 | Poste com pouca fiação
+3338 R 3 0 8 6 | Poste com pouca fiação
+3339 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3340 R 1 1.5 6 6.5 | Foto com pouca nitidez; Poste encostado na fachada
+3341 R 3 0.5 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3342 B | Foto muito borrada
+3343 B | Foto muito borrada
+3344 B | Foto muito borrada
+3345 R 3 1 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3346 R 2 2 7 7 | Foto com pouca nitidez; Poste com pouca fiação
+3347 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3348 R 3 1 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3349 R 2.5 0 7.5 6 | Poste com pouca fiação
+3350 R 3.5 0.5 8.5 6 | Poste com pouca fiação
+3351 R 4.5 1 9.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3352 R 3 1.5 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3353 R 3.5 0.5 8.5 6 | Poste com pouca fiação
+3354 R 2 0 7 6 | Poste com pouca fiação
+3355 R 2 0 7 6 | Poste com pouca fiação
+3356 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+3357 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3358 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3359 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3360 R 0 0 5 6 | Poste com pouca fiação
+3361 R 4.5 0 9.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3362 R 5 1 10 6.5 | Vegetação encobre o poste; Poste com pouca fiação
+3363 R 3.5 0 8.5 6 | Poste com pouca fiação
+3364 R 3.5 0 8.5 6 | Vegetação encobre o poste; Poste com pouca fiação
+3365 R 1 0 6 6 | Poste com pouca fiação
+3366 N | Poste não aparece em destaque (só fachada e vegetação)
+3367 R 4.5 0 9.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3368 R 3 0.5 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3369 R 3.5 0 8.5 6 | Poste com pouca fiação
+3370 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3371 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3372 B | Foto muito borrada
+3373 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3374 R 3 1 8 6.5 | Poste com pouca fiação
+3375 R 3.5 1 8.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3376 R 2.5 1 7.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3377 R 4.5 1 9.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3378 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3379 R 5 1 10 6.5 | Foto com pouca nitidez; Poste encostado na fachada
+3380 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3381 R 1 1.5 6 6.5 | Poste com pouca fiação
+3382 R 5 0 10 6 | Poste com pouca fiação
+3383 R 3 0 8 6 | Poste com pouca fiação
+3384 R 4.5 0 9.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3385 R 1.5 2 6.5 7 | Foto com pouca nitidez; poste distante
+3386 R 3 0.5 8 6 | Poste com pouca fiação
+3387 R 4 1 9 6.5 | Poste com pouca fiação
+3388 R 1.5 0 6.5 6 | Poste com pouca fiação
+3389 R 2.5 0 7.5 6 | Poste com pouca fiação
+3390 R 3.5 1 8.5 6.5 | Poste com pouca fiação
+3391 R 1.5 1 6.5 6.5 | Poste com pouca fiação
+3392 R 4 0 9 6 | Poste com pouca fiação
+3393 R 4.5 0 9.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3394 R 4.5 1 9.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3395 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+3396 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3397 R 1 0 6 6 | Há um segundo poste ao lado; zoom feito no poste central; Poste com pouca fiação
+3398 R 2.5 0 7.5 6 | Poste com pouca fiação
+3399 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3400 N | Poste não aparece na foto (só torre de telecomunicação)
+3401 R 2 0.5 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3402 R 1.5 0.5 6.5 6 | Vegetação encobre o poste; Poste com pouca fiação
+3403 R 3 1 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3404 R 0.5 0 5.5 6 | Poste com pouca fiação
+3405 R 2.5 1 7.5 6.5 | Poste com pouca fiação
+3406 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3407 R 3.5 0 8.5 6 | Poste com pouca fiação
+3408 B | Foto muito borrada
+3409 B | Foto muito borrada
+3410 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3411 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3412 R 2 0 7 6 | Poste com pouca fiação
+3413 R 2 0 7 6 | Poste com pouca fiação
+3414 R 4.5 0 9.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3415 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3416 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+3417 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3418 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3419 R 3.5 0 8.5 6 | Poste com pouca fiação
+3420 B | Foto muito borrada
+3421 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+3422 R 3.5 0 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3423 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3424 R 3.5 0 8.5 6 | Poste com pouca fiação
+3425 R 0 0 5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3426 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+3427 R 3.5 0 7 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+3428 R 2 0.5 7 6 | Poste com pouca fiação
+3429 R 0 0 5 6 | Foto com pouca nitidez; Vegetação encobre o poste
+3430 R 1 1.5 6 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3431 R 2 1 7 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3432 R 1.5 0 6.5 6 | Poste com pouca fiação
+3433 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3434 R 2.5 0.5 7.5 6 | Poste com pouca fiação
+3435 B | Foto muito borrada
+3436 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste encostado na fachada
+3437 R 2 1 7 6.5 | Poste com pouca fiação
+3438 B | Foto muito borrada
+3439 R 1.5 0.5 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3440 R 1 0.5 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3441 B | Foto muito borrada
+3442 R 1.5 1 6.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3443 R 4 0 9 6 | Poste com pouca fiação
+3444 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3445 R 3 0.5 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3446 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3447 R 3.5 0 8.5 6 | Poste encostado na fachada; Poste com pouca fiação
+3448 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3449 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3450 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3451 R 1.5 0 6.5 6 | Poste com pouca fiação
+3452 R 4.5 0 9.5 6 | Poste com pouca fiação
+3453 R 2 0.5 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3454 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3455 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3456 R 2 0 7 6 | Poste com pouca fiação
+3457 R 1.5 0.5 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3458 R 2 0 7 6 | Poste com pouca fiação
+3459 R 3 1 8 6.5 | Poste com pouca fiação
+3460 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+3461 R 1.5 0 6.5 6 | Poste com pouca fiação
+3462 B | Foto muito borrada
+3463 R 1 0.5 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3464 B | Foto muito borrada
+3465 R 2.5 0 6 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis; Foto com pouca nitidez
+3466 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3467 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3468 R 1.5 0 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3469 R 2.5 0 7.5 6 | Poste com pouca fiação
+3470 R 0 0 5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3471 R 1 1 6 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3472 R 1.5 0.5 6.5 6 | Poste com pouca fiação
+3473 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3474 R 4.5 1 9.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3475 R 0.5 0 5.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3476 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3477 R 2 0 7 6 | Poste com pouca fiação
+3478 R 3 1.5 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3479 R 2 0 7 6 | Poste com pouca fiação
+3480 R 5 0 10 6 | Poste encostado na fachada; Poste com pouca fiação
+3481 R 3 0 8 6 | Vegetação encobre o poste; Poste com pouca fiação
+3482 R 3 0 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3483 R 1.5 0.5 6.5 6 | Vegetação encobre o poste; Poste com pouca fiação
+3484 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3485 R 0 0.5 5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3486 R 2 0.5 7 6 | Poste com pouca fiação
+3487 R 1 0.5 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3488 R 0 0 5 6 | Poste com pouca fiação
+3489 R 5 1 10 6 | Torre metálica ao lado; poste na borda direita
+3490 R 4.5 0 8 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+3491 R 2.5 0 7.5 6 | Poste com pouca fiação
+3492 R 3 0 8 6 | Poste com pouca fiação
+3493 R 2 0.5 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3494 R 2.5 0 7.5 6 | Poste com pouca fiação
+3495 N | Poste não aparece na foto (só fiação e cerca)
+3496 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+3497 R 2.5 0 7.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3498 R 1 1 6 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3499 R 3 0.5 8 6 | Foto com pouca nitidez; Poste com pouca fiação
+3500 R 2 0 7 6 | Há um segundo poste ao lado; zoom feito no poste central; Foto com pouca nitidez
+3501 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3502 B | Foto muito borrada
+3503 B | Foto muito borrada
+3504 B | Foto muito borrada
+3505 R 3 0.5 8 6 | Poste com pouca fiação
+3506 R 4.5 0 9.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3507 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3508 R 1.5 0 6.5 6 | Poste com pouca fiação
+3509 R 3.5 0 8.5 6 | Poste com pouca fiação
+3510 R 5 1 10 6.5 | Foto com pouca nitidez; poste na borda direita
+3511 R 2.5 0 7.5 6 | Poste com pouca fiação
+3512 R 3 1 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3513 R 1.5 1.5 6.5 6.5 | Poste com pouca fiação
+3514 R 3 1 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3515 R 1.5 0 6.5 6 | Poste com pouca fiação
+3516 R 1 1 6 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3517 R 3 0 8 6 | Poste com pouca fiação
+3518 R 3 0 6.5 6.5 | Foto horizontal com poste distante; equipamentos pouco visíveis
+3519 R 3 0 8 6 | Poste com pouca fiação
+3520 R 2 0 7 6 | Poste com pouca fiação
+3521 R 1.5 0 6.5 6 | Poste com pouca fiação
+3522 R 2 0 7 6 | Poste com pouca fiação
+3523 R 1.5 0 6.5 6 | Poste com pouca fiação
+3524 R 4.5 0 9.5 6 | Poste com pouca fiação
+3525 R 1 0.5 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3526 R 1.5 0.5 6.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3527 R 3.5 0 8.5 6 | Poste com pouca fiação
+3528 R 3.5 1.5 8.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3529 R 1 0.5 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3530 R 1 0 6 6 | Foto com pouca nitidez; Poste com pouca fiação
+3531 R 3.5 0.5 8.5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3532 B | Foto muito borrada
+3533 B | Foto muito borrada
+3534 B | Foto muito borrada
+3535 R 1 1.5 6 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3536 R 0 0 5 6 | Foto com pouca nitidez; Poste com pouca fiação
+3537 B | Foto muito borrada
+3538 R 4 1 9 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3539 R 2.5 1 7.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3540 R 2 0 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3541 R 2.5 0 7.5 6 | Poste com pouca fiação
+3542 R 3.5 1 8.5 6.5 | Vegetação encobre o poste; Poste com pouca fiação
+3543 R 3.5 1 8.5 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3544 R 4.5 1 9.5 6.5 | Poste com pouca fiação
+3545 R 3.5 0 8.5 6 | Contraluz; Poste com pouca fiação
+3546 R 3 0 8 6 | Contraluz; Poste com pouca fiação
+3547 R 3 1 8 6.5 | Foto com pouca nitidez; Poste com pouca fiação
+3548 R 2 0.5 7 6 | Foto com pouca nitidez; Poste com pouca fiação
+3549 R 2.5 0 7.5 6 | Há um segundo poste ao lado; zoom feito no poste central; Foto com pouca nitidez
