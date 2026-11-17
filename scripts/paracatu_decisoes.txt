@@ -292,7 +292,7 @@
 290 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
 291 2 1.5 7 6.5
 292 R 2 0 7 6.5 | A foto original já é um close da fiação; base do poste não aparece
-293 R 3 2 8 7 | Há um segundo poste ao lado; zoom feito no poste central
+293 R 3.5 4 8.5 9.5 | Poste distante na parte baixa da foto; Poste com pouca fiação
 294 R 2.5 0 7.5 6 | A foto original já é um close da fiação; base do poste não aparece; placa à frente
 295 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece
 296 R 1.5 0 6.5 6.5 | A foto original já é um close da fiação; base do poste não aparece; Há um segundo poste ao lado; zoom feito no poste central
